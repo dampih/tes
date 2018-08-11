@@ -1,3 +1,4 @@
+{"state":true,"data":[
 {"name":"	Animax HD	","playUrl":"http://rr.dens.tv/h/h18/index2.m3u8","genre":"	ANAK	"},
 {"name":"	Aniplus HD	","playUrl":"http://rr.dens.tv/h/h02/index2.m3u8","genre":"	ANAK	"},
 {"name":"	Biznet Kids	","playUrl":"http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8","genre":"	ANAK	"},
@@ -34,6 +35,8 @@
 {"name":"	(AC) Animax	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/3.ts","genre":"	ANAK	"},
 {"name":"	(AC) CBeebies	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/491.ts","genre":"	ANAK	"},
 {"name":"	(AC) Discovery Kids	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/507.ts","genre":"	ANAK	"},
+{"name":"	(AC) Biznet Kids	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/563.ts","genre":"	ANAK	"},
+{"name":"	(AC) Spacetoon	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/59.ts","genre":"	ANAK	"},
 {"name":"	Celestial Movie HD	","playUrl":"http://rr2.dens.tv/s/s33/index2.m3u8","genre":"	FILM	"},
 {"name":"	Celestial Movie	","playUrl":"http://lihattv.com/?play=43414","genre":"	FILM	"},
 {"name":"	Sony Pix	","playUrl":"http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8","genre":"	FILM	"},
@@ -328,8 +331,6 @@
 {"name":"	(AC) TV ONE	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/29.ts","genre":"	LOKAL	"},
 {"name":"	(AC) Kompas TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/30.ts","genre":"	LOKAL	"},
 {"name":"	(AC) Metro TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/52.ts","genre":"	LOKAL	"},
-{"name":"	(AC) Biznet Kids	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/563.ts","genre":"	LOKAL	"},
-{"name":"	(AC) Spacetoon	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/59.ts","genre":"	LOKAL	"},
 {"name":"	(AC) Elshinta TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/23.ts","genre":"	LOKAL	"},
 {"name":"	(AC) DAAI TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/21.ts","genre":"	LOKAL	"},
 {"name":"	(AC) IN TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/77.ts","genre":"	LOKAL	"},
@@ -436,4 +437,5 @@
 {"name":"	(AC) NBA TV	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/243.ts","genre":"	SPORT	"},
 {"name":"	(AC) TNT US	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/678.ts","genre":"	SPORT	"},
 {"name":"	(AC) Ten Golf HD	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/224.ts","genre":"	SPORT	"},
-{"name":"	(AC) Sony Six HD	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/225.ts","genre":"	SPORT	"},
+{"name":"	(AC) Sony Six HD	","playUrl":"http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/225.ts","genre":"	SPORT	"}
+]}
