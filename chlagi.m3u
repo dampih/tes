@@ -1,0 +1,925 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/244.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="SEMUA",WWE Network
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/299.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NBA TV"  group-title="SEMUA",NBA TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/243.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Ten Golf HD"  group-title="SEMUA",Ten Golf HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/224.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FIGHT BOX"  group-title="SEMUA",FIGHT BOX
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/501.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony ESPN"  group-title="SEMUA",Sony ESPN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/162.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD"  group-title="SEMUA",NET TV HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/78.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD 2"  group-title="SEMUA",NET TV HD 2
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="SEMUA",TVRI
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/36.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jakarta"  group-title="SEMUA",TVRI Jakarta
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/727.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jakarta 2"  group-title="SEMUA",TVRI Jakarta 2
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV"  group-title="SEMUA",Trans TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/34.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 2"  group-title="SEMUA",Trans TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="SEMUA",Trans 7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/35.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="SEMUA",Trans 7 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="SEMUA",SCTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/32.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 2"  group-title="SEMUA",SCTV 2
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="SEMUA",NET TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/24.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar"  group-title="SEMUA",Indosiar
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/33.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar 2"  group-title="SEMUA",Indosiar 2
+http://new.indostreamingtv.com/live/tv3/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="O Channel"  group-title="SEMUA",O Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/547.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="SEMUA",ANTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/31.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 2"  group-title="SEMUA",ANTV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV"  group-title="SEMUA",MNC TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/27.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV 2"  group-title="SEMUA",MNC TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global TV"  group-title="SEMUA",Global TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/26.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global TV 2"  group-title="SEMUA",Global TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="SEMUA",RCTI
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/25.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 2"  group-title="SEMUA",RCTI 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Saluran Musik Indonesia"  group-title="SEMUA",Saluran Musik Indonesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/72.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Klik Music"  group-title="SEMUA",Klik Music
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/73.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Life"  group-title="SEMUA",Life
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/140.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="U Channel"  group-title="SEMUA",U Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/151.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia"  group-title="SEMUA",CNN Indonesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/44.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia 2"  group-title="SEMUA",CNN Indonesia 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1046669305_b280000_sleng.m3u8?_res_tag_=video
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="iNews TV"  group-title="SEMUA",iNews TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/206.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="iNews TV 2"  group-title="SEMUA",iNews TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8?_res_tag_=video
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu"  group-title="SEMUA",Berita Satu
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/136.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 2"  group-title="SEMUA",Berita Satu 2
+http://118.97.167.8/jhos/beritasatu.m3u8?stime=20180625110000&etime=20180625120000&encoded=06e98e985faa4f6586d23
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="DW TV Asia"  group-title="SEMUA",DW TV Asia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/205.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE"  group-title="SEMUA",TV ONE
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/29.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE 2"  group-title="SEMUA",TV ONE 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV"  group-title="SEMUA",Kompas TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/30.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV 2"  group-title="SEMUA",Kompas TV 2
+http://210.210.155.35/session/14e6f184-98a2-11e8-a629-b82a72d63267/qwr9ew/s/s09/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Metro TV"  group-title="SEMUA",Metro TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/52.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Metro TV 2"  group-title="SEMUA",Metro TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w214593195_b1300000_sleng.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bloomberg TV Asia"  group-title="SEMUA",Bloomberg TV Asia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/137.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jak TV"  group-title="SEMUA",Jak TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/83.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Biznet Life"  group-title="SEMUA",Biznet Life
+http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rajawali TV"  group-title="SEMUA",Rajawali TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/37.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rajawali TV 2"  group-title="SEMUA",Rajawali TV 2
+http://210.210.155.35/session/ba8bd1ae-98a2-11e8-8e6f-c81f66f89318/qwr9ew/s/s12/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Foodie"  group-title="SEMUA",Foodie
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/204.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antara TV"  group-title="SEMUA",Antara TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/91.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Elshinta TV"  group-title="SEMUA",Elshinta TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/23.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Makkah TV"  group-title="SEMUA",Makkah TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/297.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rodja TV"  group-title="SEMUA",Rodja TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/22.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dangdutz"  group-title="SEMUA",Dangdutz
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/57.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madina TV"  group-title="SEMUA",Madina TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/347.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Living Foodz"  group-title="SEMUA",Living Foodz
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/345.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAAI TV"  group-title="SEMUA",DAAI TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/21.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HI! TV"  group-title="SEMUA",HI! TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/58.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bali TV"  group-title="SEMUA",Bali TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/576.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inspira TV"  group-title="SEMUA",Inspira TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/608.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KitaNesia"  group-title="SEMUA",KitaNesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/607.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Maleo TV"  group-title="SEMUA",Maleo TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/610.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nu Channel"  group-title="SEMUA",Nu Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/611.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Saling Sapa"  group-title="SEMUA",Saling Sapa
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/606.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tabalong TV"  group-title="SEMUA",Tabalong TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/609.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="IN TV"  group-title="SEMUA",IN TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/77.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="JTV"  group-title="SEMUA",JTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/135.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ABC Avava Bollywood"  group-title="SEMUA",ABC Avava Bollywood
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/203.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Waku Waku Japan"  group-title="SEMUA",Waku Waku Japan
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/717.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Syfy"  group-title="SEMUA",Syfy
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/538.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HGTV"  group-title="SEMUA",HGTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/537.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic Channel HD"  group-title="SEMUA",National Geographic Channel HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/96.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic Wild HD"  group-title="SEMUA",National Geographic Wild HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/97.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic People"  group-title="SEMUA",National Geographic People
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/455.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="SEMUA",History
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/718.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="History US"  group-title="SEMUA",History US
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/300.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="SEMUA",Animal Planet
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/358.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet HD World"  group-title="SEMUA",Animal Planet HD World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/514.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery HD"  group-title="SEMUA",Discovery HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/165.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science HD"  group-title="SEMUA",Discovery Science HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/408.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Shed"  group-title="SEMUA",Discovery Shed
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/333.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Turbo"  group-title="SEMUA",Discovery Turbo
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/462.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery History"  group-title="SEMUA",Discovery History
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/511.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery HD World"  group-title="SEMUA",Discovery HD World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/513.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Crime Investigation"  group-title="SEMUA",Crime Investigation
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/332.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CGTN"  group-title="SEMUA",CGTN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/362.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="E!"  group-title="SEMUA",E!
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/490.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="tvN Malaysia"  group-title="SEMUA",tvN Malaysia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/493.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="France 24"  group-title="SEMUA",France 24
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/363.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV5monde"  group-title="SEMUA",TV5monde
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/545.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Phoenix"  group-title="SEMUA",Phoenix
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/546.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Euro News"  group-title="SEMUA",Euro News
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/543.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Channel News Asia"  group-title="SEMUA",Channel News Asia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/544.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="SEMUA",Food Network
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/625.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Travel XP"  group-title="SEMUA",Travel XP
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/618.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fashion TV"  group-title="SEMUA",Fashion TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/280.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aljazeera EN"  group-title="SEMUA",Aljazeera EN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/89.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aljazeera"  group-title="SEMUA",Aljazeera
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/88.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Sab"  group-title="SEMUA",Sony Sab
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/421.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Rox"  group-title="SEMUA",Sony Rox
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/418.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="SEMUA",ATN News
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/535.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NDTV India"  group-title="SEMUA",NDTV India
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/533.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Universal Channel"  group-title="SEMUA",Universal Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/481.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tennis Channel"  group-title="SEMUA",Tennis Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/482.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="SEMUA",DMAX
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/483.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="And TV"  group-title="SEMUA",And TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/420.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="SEMUA",NHK World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/303.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World 2"  group-title="SEMUA",NHK World 2
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K Plus"  group-title="SEMUA",K Plus
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/18.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Star World"  group-title="SEMUA",Star World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/381.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Star Gold HD"  group-title="SEMUA",Star Gold HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/384.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony BBC Earth"  group-title="SEMUA",Sony BBC Earth
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/385.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Channel"  group-title="SEMUA",Sony Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/15.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Max HD"  group-title="SEMUA",Sony Max HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/180.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KBS World"  group-title="SEMUA",KBS World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/133.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci"  group-title="SEMUA",Da Vinci
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/17.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Entertainment Television"  group-title="SEMUA",Sony Entertainment Television
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/393.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rishtey Asia"  group-title="SEMUA",Rishtey Asia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/392.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Colors TV HD"  group-title="SEMUA",Colors TV HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/391.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bioskop"  group-title="SEMUA",Zee Bioskop
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/7.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Studio"  group-title="SEMUA",Zee Studio
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/338.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="SEMUA",Thrill
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/4.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX"  group-title="FILM",KIX
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/8.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="FILM",AXN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/9.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Golf Channel"  group-title="SEMUA",Golf Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/561.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="B4U Music"  group-title="SEMUA",B4U Music
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/524.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures"  group-title="SEMUA",And Pictures
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/512.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV9"  group-title="SEMUA",TV9
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/444.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV3"  group-title="SEMUA",TV3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/443.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV2"  group-title="SEMUA",TV2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/442.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV1"  group-title="SEMUA",TV1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/441.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NTV7"  group-title="SEMUA",NTV7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/440.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC One"  group-title="SEMUA",BBC One
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/353.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC Two"  group-title="SEMUA",BBC Two
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/354.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC Three"  group-title="SEMUA",BBC Three
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/355.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC Four"  group-title="SEMUA",BBC Four
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/356.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AFC"  group-title="SEMUA",AFC
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/733.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro HDD"  group-title="SEMUA",Astro HDD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/735.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Maya HD"  group-title="SEMUA",Astro Maya HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/736.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Oasis"  group-title="SEMUA",Astro Oasis
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/738.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Prima"  group-title="SEMUA",Astro Prima
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/739.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Quan Jia HD"  group-title="SEMUA",Astro Quan Jia HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/740.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Ria"  group-title="SEMUA",Astro Ria
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/741.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Shuang Xing HD"  group-title="SEMUA",Astro Shuang Xing HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/742.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Tara HD"  group-title="SEMUA",Astro Tara HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/747.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Vaanavil HD"  group-title="SEMUA",Astro Vaanavil HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/748.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Vinmeen HD"  group-title="SEMUA",Astro Vinmeen HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/749.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Warna"  group-title="SEMUA",Astro Warna
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/750.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Xi Yue"  group-title="SEMUA",Astro Xi Yue
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/751.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Xiao Tai Yang"  group-title="SEMUA",Astro Xiao Tai Yang
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/752.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bolly One HD"  group-title="SEMUA",Bolly One HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/753.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney XD Malaysia"  group-title="SEMUA",Disney XD Malaysia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/734.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva HD"  group-title="SEMUA",Diva HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/755.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="E Entertainment"  group-title="SEMUA",E Entertainment
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/756.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="EGG"  group-title="SEMUA",EGG
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/757.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Hits HD"  group-title="SEMUA",Hits HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/758.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kix (Astro)"  group-title="SEMUA",Kix (Astro)
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/759.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="SEMUA",MTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/281.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Rocks"  group-title="SEMUA",MTV Rocks
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/285.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Music"  group-title="SEMUA",MTV Music
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/286.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="SEMUA",MTV Hits
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/287.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Dance"  group-title="SEMUA",MTV Dance
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/288.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Classic"  group-title="SEMUA",MTV Classic
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/289.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV Base"  group-title="SEMUA",MTV Base
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/291.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Naija"  group-title="SEMUA",Trace Naija
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/113.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Urban"  group-title="SEMUA",Trace Urban
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/106.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Mizki"  group-title="SEMUA",Trace Mizki
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/109.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Africa"  group-title="SEMUA",Trace Africa
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/108.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Tropical"  group-title="SEMUA",Trace Tropical
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/112.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trace Toca"  group-title="SEMUA",Trace Toca
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/111.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC HD World"  group-title="SEMUA",TLC HD World
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/352.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC English"  group-title="SEMUA",TLC English
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/351.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Awani"  group-title="SEMUA",Astro Awani
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/294.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Skynet HD"  group-title="SEMUA",Skynet HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/679.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="PPTV HD"  group-title="SEMUA",PPTV HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/605.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony ESPN"  group-title="SEMUA",Sony ESPN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/162.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN LaLiga"  group-title="SEMUA",BeIN LaLiga
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/416.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MU TV"  group-title="SEMUA",MU TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/400.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CCTV 5 HD"  group-title="SEMUA",CCTV 5 HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/595.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FIGHT BOX"  group-title="SEMUA",FIGHT BOX
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/501.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Box Nation"  group-title="SEMUA",Box Nation
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/499.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="SEMUA",WWE Network
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/299.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/244.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NBA TV"  group-title="SEMUA",NBA TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/243.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT US"  group-title="SEMUA",TNT US
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/678.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Ten Golf HD"  group-title="SEMUA",Ten Golf HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/224.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Six HD"  group-title="SEMUA",Sony Six HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/225.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Gen FM 103.1 Surabaya"  group-title="SEMUA",Gen FM 103.1 Surabaya
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/589.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Gen FM 98.7"  group-title="SEMUA",Gen FM 98.7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/588.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Jakarta"  group-title="SEMUA",Prambors FM Jakarta
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/572.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Bandung"  group-title="SEMUA",Prambors FM Bandung
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/582.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Makasar"  group-title="SEMUA",Prambors FM Makasar
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/585.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Semarang"  group-title="SEMUA",Prambors FM Semarang
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/587.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Solo"  group-title="SEMUA",Prambors FM Solo
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/586.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Surabaya"  group-title="SEMUA",Prambors FM Surabaya
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/584.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prambors FM Yogyakarta"  group-title="SEMUA",Prambors FM Yogyakarta
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/583.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pacific Rim: Uprising"  group-title="SEMUA",Pacific Rim: Uprising
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/590.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Interstellar (2014)"  group-title="SEMUA",Interstellar (2014)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/594.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Friday The 13th (HBO OD)"  group-title="SEMUA",Friday The 13th (HBO OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/658.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Robinson Crusoe (HBO OD)"  group-title="SEMUA",Robinson Crusoe (HBO OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/657.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tarzan (Fox Movies OD)"  group-title="SEMUA",Tarzan (Fox Movies OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/659.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diary of A Wimpy Kid (Fox Movies OD)"  group-title="SEMUA",Diary of A Wimpy Kid (Fox Movies OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/660.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AWOL-72 (Fox Action OD)"  group-title="SEMUA",AWOL-72 (Fox Action OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/664.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Commando (Fox Action OD)"  group-title="SEMUA",Commando (Fox Action OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/662.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Asian Connection (Fox Action OD)"  group-title="SEMUA",Asian Connection (Fox Action OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/663.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Shockwave (Fox Action OD)"  group-title="SEMUA",Shockwave (Fox Action OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/665.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="The Smurfs 2 (Fox Movies OD)"  group-title="SEMUA",The Smurfs 2 (Fox Movies OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/666.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madagascar: Escape 2 Africa"  group-title="SEMUA",Madagascar: Escape 2 Africa
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/668.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Total Recall (Fox Movies OD)"  group-title="SEMUA",Total Recall (Fox Movies OD)
+http://sg.ganteng.stream:8888/movie/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/667.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony ONE"  group-title="KOREA",Sony ONE
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/19.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K Drama"  group-title="KOREA",K Drama
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/14.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SBS IN HD"  group-title="KOREA",SBS IN HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/13.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony ONE"  group-title="KOREA",Sony ONE
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/19.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K Drama"  group-title="KOREA",K Drama
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/14.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="FILM",Sony Pix
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/380.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Leplex"  group-title="FILM",Sony Leplex
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/383.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Saluran Film Indonesia"  group-title="FILM",Saluran Film Indonesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/554.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="J'GO TV"  group-title="FILM",J'GO TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/56.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Gold Diamond"  group-title="FILM",Gold Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/69.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Red Diamond"  group-title="FILM",Red Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/70.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Black Diamond"  group-title="FILM",Black Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/74.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Avava Diamond"  group-title="FILM",Avava Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/75.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Earth"  group-title="FILM",Diamond Earth
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/581.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond TV"  group-title="FILM",Diamond TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/579.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Movies HD"  group-title="FILM",FOX Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/98.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Action Movies HD"  group-title="FILM",FOX Action Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/99.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Family Movies HD"  group-title="FILM",FOX Family Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/100.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Crime HD"  group-title="FILM",FOX Crime HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/763.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Life HD"  group-title="FILM",FOX Life HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/94.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX HD"  group-title="FILM",FOX HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/95.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="FILM",HBO HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/210.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="FILM",HBO Hits
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/591.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Family"  group-title="FILM",HBO Family
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/592.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Signature"  group-title="FILM",HBO Signature
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/405.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax Action"  group-title="FILM",Cinemax Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/448.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="B4U Movie"  group-title="FILM",B4U Movie
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/617.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="FILM",Star Movies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/359.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movies"  group-title="FILM",Celestial Movies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/5.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movies (Astro)"  group-title="FILM",Celestial Movies (Astro)
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/754.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Sci Fi"  group-title="FILM",Sky Movies Sci Fi
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/274.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Family"  group-title="FILM",Sky Movies Family
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/273.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Disney"  group-title="FILM",Sky Movies Disney
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/272.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Crime"  group-title="FILM",Sky Movies Crime
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/271.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Action"  group-title="FILM",Sky Movies Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/269.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Signature"  group-title="FILM",HBO Signature
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/405.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Family"  group-title="FILM",HBO Family
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/592.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="FILM",HBO Hits
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/591.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="FILM",HBO HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/210.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX HD"  group-title="FILM",FOX HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/95.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Life HD"  group-title="FILM",FOX Life HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/94.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Crime HD"  group-title="FILM",FOX Crime HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/763.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Family Movies HD"  group-title="FILM",FOX Family Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/100.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Action Movies HD"  group-title="FILM",FOX Action Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/99.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX Movies HD"  group-title="FILM",FOX Movies HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/98.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Action"  group-title="FILM",Sky Movies Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/269.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Crime"  group-title="FILM",Sky Movies Crime
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/271.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Disney"  group-title="FILM",Sky Movies Disney
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/272.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Family"  group-title="FILM",Sky Movies Family
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/273.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Movies Sci Fi"  group-title="FILM",Sky Movies Sci Fi
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/274.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movies (Astro)"  group-title="FILM",Celestial Movies (Astro)
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/754.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movies"  group-title="FILM",Celestial Movies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/5.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="FILM",Star Movies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/359.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="B4U Movie"  group-title="FILM",B4U Movie
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/617.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Saluran Film Indonesia"  group-title="FILM",Saluran Film Indonesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/554.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="J'GO TV"  group-title="FILM",J'GO TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/56.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond TV"  group-title="FILM",Diamond TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/579.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Earth"  group-title="FILM",Diamond Earth
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/581.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Avava Diamond"  group-title="FILM",Avava Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/75.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Black Diamond"  group-title="FILM",Black Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/74.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Red Diamond"  group-title="FILM",Red Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/70.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Gold Diamond"  group-title="FILM",Gold Diamond
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/69.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax Action"  group-title="FILM",Cinemax Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/448.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Leplex"  group-title="FILM",Sony Leplex
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/383.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="FILM",Sony Pix
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/380.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX"  group-title="FILM",KIX
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/8.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="FILM",AXN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/9.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 1 HD Airtel"  group-title="SPORT",Sony Ten 1 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/619.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 1 SD Airtel"  group-title="SPORT",Sony Ten 1 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/620.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 HD Airtel"  group-title="SPORT",Sony Ten 2 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/621.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 SD Airtel"  group-title="SPORT",Sony Ten 2 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/622.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 3 HD Airtel"  group-title="SPORT",Sony Ten 3 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/623.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 3 SD Airtel"  group-title="SPORT",Sony Ten 3 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/624.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="SPORT",TVRI Sport HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="SPORT",TVRI Sport HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Usee Sport Liga Gojek"  group-title="SPORT",Usee Sport Liga Gojek
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/693.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Cricket"  group-title="SPORT",Astro Cricket
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/737.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 1"  group-title="SPORT",Astro Super Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/743.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 2"  group-title="SPORT",Astro Super Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/744.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 3"  group-title="SPORT",Astro Super Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/745.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 4"  group-title="SPORT",Astro Super Sport 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/746.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Arena HD"  group-title="SPORT",Astro Arena HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/567.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 1 ID"  group-title="SPORT",BeIN Sport 1 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/728.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 2 ID"  group-title="SPORT",BeIN Sport 2 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/729.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 3 ID"  group-title="SPORT",BeIN Sport 3 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/730.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 1"  group-title="SPORT",Fox Sports 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/51.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 2"  group-title="SPORT",Fox Sports 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/102.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 3"  group-title="SPORT",Fox Sports 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/101.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 1 Fr"  group-title="SPORT",BeIN Sports 1 Fr
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/569.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 1"  group-title="SPORT",BeIN Sports 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/10.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 2"  group-title="SPORT",BeIN Sports 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/11.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 3"  group-title="SPORT",BeIN Sports 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/12.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 4"  group-title="SPORT",BeIN Sports 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/217.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 5"  group-title="SPORT",BeIN Sports 5
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/218.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 6"  group-title="SPORT",BeIN Sports 6
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/219.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 7"  group-title="SPORT",BeIN Sports 7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/220.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 8"  group-title="SPORT",BeIN Sports 8
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/221.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 9"  group-title="SPORT",BeIN Sports 9
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/222.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 10"  group-title="SPORT",BeIN Sports 10
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/253.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 11"  group-title="SPORT",BeIN Sports 11
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/254.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 12"  group-title="SPORT",BeIN Sports 12
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/255.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="SPORT",Sky Sport F1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/415.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Premiere League"  group-title="SPORT",Sky Sport Premiere League
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/317.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Main Event"  group-title="SPORT",Sky Sport Main Event
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/316.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Action"  group-title="SPORT",Sky Sport Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/315.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Cricket"  group-title="SPORT",Sky Sport Cricket
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/314.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Football"  group-title="SPORT",Sky Sport Football
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/477.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Arena"  group-title="SPORT",Sky Sport Arena
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/476.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 1"  group-title="SPORT",BT Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/319.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 2"  group-title="SPORT",BT Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/320.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 3"  group-title="SPORT",BT Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/321.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport ESPN"  group-title="SPORT",BT Sport ESPN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/399.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 1"  group-title="SPORT",Super Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/256.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 2"  group-title="SPORT",Super Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/257.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 3"  group-title="SPORT",Super Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/258.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 4"  group-title="SPORT",Super Sport 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/259.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="SPORT",TVRI Sport HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 4"  group-title="SPORT",Super Sport 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/259.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 3"  group-title="SPORT",Super Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/258.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 2"  group-title="SPORT",Super Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/257.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Sport 1"  group-title="SPORT",Super Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/256.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport ESPN"  group-title="SPORT",BT Sport ESPN
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/399.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 3"  group-title="SPORT",BT Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/321.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 2"  group-title="SPORT",BT Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/320.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sport 1"  group-title="SPORT",BT Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/319.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Arena"  group-title="SPORT",Sky Sport Arena
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/476.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Football"  group-title="SPORT",Sky Sport Football
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/477.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Cricket"  group-title="SPORT",Sky Sport Cricket
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/314.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Action"  group-title="SPORT",Sky Sport Action
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/315.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Main Event"  group-title="SPORT",Sky Sport Main Event
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/316.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Premiere League"  group-title="SPORT",Sky Sport Premiere League
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/317.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="SPORT",Sky Sport F1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/415.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 12"  group-title="SPORT",BeIN Sports 12
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/255.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 11"  group-title="SPORT",BeIN Sports 11
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/254.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 10"  group-title="SPORT",BeIN Sports 10
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/253.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 9"  group-title="SPORT",BeIN Sports 9
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/222.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 8"  group-title="SPORT",BeIN Sports 8
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/221.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 7"  group-title="SPORT",BeIN Sports 7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/220.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 6"  group-title="SPORT",BeIN Sports 6
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/219.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 5"  group-title="SPORT",BeIN Sports 5
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/218.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 4"  group-title="SPORT",BeIN Sports 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/217.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 3"  group-title="SPORT",BeIN Sports 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/12.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 2"  group-title="SPORT",BeIN Sports 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/11.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 1"  group-title="SPORT",BeIN Sports 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/10.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sports 1 Fr"  group-title="SPORT",BeIN Sports 1 Fr
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/569.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 3"  group-title="SPORT",Fox Sports 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/101.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 2"  group-title="SPORT",Fox Sports 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/102.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Sports 1"  group-title="SPORT",Fox Sports 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/51.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 3 ID"  group-title="SPORT",BeIN Sport 3 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/730.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 2 ID"  group-title="SPORT",BeIN Sport 2 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/729.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BeIN Sport 1 ID"  group-title="SPORT",BeIN Sport 1 ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/728.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 4"  group-title="SPORT",Astro Super Sport 4
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/746.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 3"  group-title="SPORT",Astro Super Sport 3
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/745.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 2"  group-title="SPORT",Astro Super Sport 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/744.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Super Sport 1"  group-title="SPORT",Astro Super Sport 1
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/743.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="GINX ESPORTS TV"  group-title="SPORT",GINX ESPORTS TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/532.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Usee Sport Liga Gojek"  group-title="SPORT",Usee Sport Liga Gojek
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/693.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="SPORT",TVRI Sport HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Cricket"  group-title="SPORT",Astro Cricket
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/737.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Astro Arena HD"  group-title="SPORT",Astro Arena HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/567.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 3 SD Airtel"  group-title="SPORT",Sony Ten 3 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/624.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 3 HD Airtel"  group-title="SPORT",Sony Ten 3 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/623.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 SD Airtel"  group-title="SPORT",Sony Ten 2 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/622.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 HD Airtel"  group-title="SPORT",Sony Ten 2 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/621.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 1 SD Airtel"  group-title="SPORT",Sony Ten 1 SD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/620.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten 1 HD Airtel"  group-title="SPORT",Sony Ten 1 HD Airtel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/619.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD"  group-title="LOKAL",NET TV HD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/78.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="LOKAL",NET TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/24.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 2"  group-title="LOKAL",SCTV 2
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="LOKAL",SCTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/32.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="LOKAL",Trans 7 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="LOKAL",Trans 7
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/35.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 2"  group-title="LOKAL",Trans TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV"  group-title="LOKAL",Trans TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/34.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jakarta 2"  group-title="LOKAL",TVRI Jakarta 2
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jakarta"  group-title="LOKAL",TVRI Jakarta
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/727.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="LOKAL",TVRI
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/36.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD 2"  group-title="LOKAL",NET TV HD 2
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 2"  group-title="LOKAL",RCTI 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="LOKAL",RCTI
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/25.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global TV 2"  group-title="LOKAL",Global TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global TV"  group-title="LOKAL",Global TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/26.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV 2"  group-title="LOKAL",MNC TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV"  group-title="LOKAL",MNC TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/27.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 2"  group-title="LOKAL",ANTV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="LOKAL",ANTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/31.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="O Channel"  group-title="LOKAL",O Channel
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/547.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar 2"  group-title="LOKAL",Indosiar 2
+http://new.indostreamingtv.com/live/tv3/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar"  group-title="LOKAL",Indosiar
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/33.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 2"  group-title="LOKAL",Berita Satu 2
+http://118.97.167.8/jhos/beritasatu.m3u8?stime=20180625110000&etime=20180625120000&encoded=06e98e985faa4f6586d23
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu"  group-title="LOKAL",Berita Satu
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/136.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="iNews TV 2"  group-title="LOKAL",iNews TV 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8?_res_tag_=video
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="iNews TV"  group-title="LOKAL",iNews TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/206.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia 2"  group-title="LOKAL",CNN Indonesia 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1046669305_b280000_sleng.m3u8?_res_tag_=video
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia"  group-title="LOKAL",CNN Indonesia
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/44.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Metro TV 2"  group-title="LOKAL",Metro TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w214593195_b1300000_sleng.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Metro TV"  group-title="LOKAL",Metro TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/52.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV 2"  group-title="LOKAL",Kompas TV 2
+http://210.210.155.35/session/14e6f184-98a2-11e8-a629-b82a72d63267/qwr9ew/s/s09/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV"  group-title="LOKAL",Kompas TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/30.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE 2"  group-title="LOKAL",TV ONE 2
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE"  group-title="LOKAL",TV ONE
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/29.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="JTV"  group-title="LOKAL",JTV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/135.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="IN TV"  group-title="LOKAL",IN TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/77.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="GINX ESPORTS TV"  group-title="ANAK",GINX ESPORTS TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/532.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Biznet Kids"  group-title="ANAK",Biznet Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/563.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Spacetoon"  group-title="ANAK",Spacetoon
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/59.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="My Kids"  group-title="ANAK",My Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/16.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="ANAK",Disney XD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/104.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Toons"  group-title="ANAK",Nick Toons
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/335.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="ANAK",Nickelodeon
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/252.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="ANAK",Nick Jr
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/522.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="PBS Kids"  group-title="ANAK",PBS Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/523.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel ID"  group-title="ANAK",Disney Channel ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/306.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network ID"  group-title="ANAK",Cartoon Network ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/680.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="ANAK",Cartoon Network
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/214.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="ANAK",Boomerang
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/305.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CBBC"  group-title="ANAK",CBBC
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/508.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Baby TV"  group-title="ANAK",Baby TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/296.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bein Junior"  group-title="ANAK",Bein Junior
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/342.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr 2"  group-title="ANAK",Nick Jr 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/341.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jim Jam"  group-title="ANAK",Jim Jam
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="ANAK",Disney Junior
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/213.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Kids"  group-title="ANAK",Diamond Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/580.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus"  group-title="ANAK",Aniplus
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/2.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="ANAK",Animax
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/3.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CBeebies"  group-title="ANAK",CBeebies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/491.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Kids"  group-title="ANAK",Discovery Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/507.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="My Kids"  group-title="ANAK",My Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/16.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Biznet Kids"  group-title="ANAK",Biznet Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/563.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Spacetoon"  group-title="ANAK",Spacetoon
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/59.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="ANAK",Disney Junior
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/213.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jim Jam"  group-title="ANAK",Jim Jam
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr 2"  group-title="ANAK",Nick Jr 2
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/341.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bein Junior"  group-title="ANAK",Bein Junior
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/342.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Baby TV"  group-title="ANAK",Baby TV
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/296.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CBBC"  group-title="ANAK",CBBC
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/508.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="ANAK",Boomerang
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/305.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="ANAK",Cartoon Network
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/214.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network ID"  group-title="ANAK",Cartoon Network ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/680.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel ID"  group-title="ANAK",Disney Channel ID
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/306.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="PBS Kids"  group-title="ANAK",PBS Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/523.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="ANAK",Nick Jr
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/522.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="ANAK",Nickelodeon
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/252.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Toons"  group-title="ANAK",Nick Toons
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/335.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="ANAK",Disney XD
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/104.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Kids"  group-title="ANAK",Diamond Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/580.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="ANAK",Animax
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/3.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus"  group-title="ANAK",Aniplus
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/2.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Kids"  group-title="ANAK",Discovery Kids
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/507.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CBeebies"  group-title="ANAK",CBeebies
+http://sg.ganteng.stream:8888/live/gratiselanyayuldownloadacaratvygsnifbego/gratiselanyayuldownloadacaratvygsnifbego/491.ts
