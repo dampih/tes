@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TEST TV"  group-title="SEMUA",TEST TV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
 http://sg.ganteng.stream:8888/live/userinidiperintukanuntukhpya/userinidiperintukanuntukhpya/244.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="SEMUA",WWE Network
