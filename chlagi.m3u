@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TEST TV"  group-title="SEMUA",TEST TV
-https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SBS IN HD 2"  group-title="KOREA",SBS IN HD 2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/lbtrPwzGcYc.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-2uuxa3vh-jb36.googlevideo.com/ei/n8F4W-bjHYm6z7sPgPm6kAo/playlist_type/DVR/gcr/id/initcwndbps/4290/mm/32/mn/sn-2uuxa3vh-jb36/ms/lv/mv/m/pcm2cms/yes/pl/21/dover/10/keepalive/yes/mt/1534640475/ip/125.166.15.183/ipbits/0/expire/1534662143/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/0278F84772A1CDD4D17EEB05C22520FB1A035DC8.064D4FA734B457A2799B276CACD8A07215D19CBB/key/dg_yt0/playlist/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
 http://sg.ganteng.stream:8888/live/userinidiperintukanuntukhpya/userinidiperintukanuntukhpya/244.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="SEMUA",WWE Network
