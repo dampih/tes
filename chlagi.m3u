@@ -47,6 +47,8 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/34.ts
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="SEMUA",Trans 7
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/35.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 3"  group-title="LOKAL",Trans 7 3
+http://id2.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="SEMUA",Trans 7 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="SEMUA",SCTV
@@ -65,6 +67,8 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/547.t
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/31.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 2"  group-title="SEMUA",ANTV 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 4"  group-title="SEMUA",ANTV 4
+http://new.indostreamingtv.com/live/tv44/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV"  group-title="SEMUA",MNC TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/27.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MNC TV 2"  group-title="SEMUA",MNC TV 2
@@ -783,12 +787,18 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/24.ts
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="LOKAL",SCTV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/32.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 3"  group-title="LOKAL",SCTV 3
+http://new.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 4"  group-title="LOKAL",SCTV 4
+http://new.indostreamingtv.com/live/tv7/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="LOKAL",Trans 7 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="LOKAL",Trans 7
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/35.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 2"  group-title="LOKAL",Trans TV 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 3"  group-title="LOKAL",Trans TV 3
+http://new.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV"  group-title="LOKAL",Trans TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/34.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Jakarta 2"  group-title="LOKAL",TVRI Jakarta 2
@@ -801,6 +811,10 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/36.ts
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 2"  group-title="LOKAL",RCTI 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 3"  group-title="LOKAL",RCTI 3
+http://new.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 4"  group-title="LOKAL",RCTI 4
+http://d2sbakxq2gmau7.cloudfront.net/live/tv66/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="LOKAL",RCTI
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/25.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global TV 2"  group-title="LOKAL",Global TV 2
@@ -823,6 +837,8 @@ http://new.indostreamingtv.com/live/tv3/index.m3u8
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/33.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 2"  group-title="LOKAL",Berita Satu 2
 http://118.97.167.8/jhos/beritasatu.m3u8?stime=20180625110000&etime=20180625120000&encoded=06e98e985faa4f6586d23
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 3"  group-title="LOKAL",Berita Satu 3
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu"  group-title="LOKAL",Berita Satu
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/136.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="iNews TV 2"  group-title="LOKAL",iNews TV 2
@@ -841,10 +857,14 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/52.ts
 http://210.210.155.35/session/14e6f184-98a2-11e8-a629-b82a72d63267/qwr9ew/s/s09/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV"  group-title="LOKAL",Kompas TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/30.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV 3"  group-title="LOKAL",Kompas TV 3
+https://stream-03.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8 
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE 2"  group-title="LOKAL",TV ONE 2
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE"  group-title="LOKAL",TV ONE
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/29.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE 3"  group-title="LOKAL",TV ONE 3
+https://dmlive.vo.llnwd.net/dm/3/x619221/live-3.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="JTV"  group-title="LOKAL",JTV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/135.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="IN TV"  group-title="LOKAL",IN TV
