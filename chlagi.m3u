@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIZNET KIDS 2"  group-title="ANAK",BIZNET KIDS 2
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="VOD 1"  group-title="VOD",VOD 1
 https://1fiag0u.oloadcdn.net/dl/l/dQd_XJLwZNkcqySP/Q5Zv3uaIKTI/7616-BLURAY.mp4?mime=true
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Larva Tube"  group-title="ANAK",Larva Tube
@@ -125,13 +127,13 @@ http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/204.t
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/91.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Elshinta TV"  group-title="SEMUA",Elshinta TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/23.ts
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Makkah TV"  group-title="SEMUA",Makkah TV
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Makkah TV"  group-title="IBADAH",Makkah TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/297.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Rodja TV"  group-title="SEMUA",Rodja TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/22.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dangdutz"  group-title="SEMUA",Dangdutz
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/57.ts
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madina TV"  group-title="SEMUA",Madina TV
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madina TV"  group-title="IBADAH",Madina TV
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/347.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Living Foodz"  group-title="SEMUA",Living Foodz
 http://sg.ganteng.stream:8888/live/pemudapemudiacaratv/pemudapemudiacaratv/345.ts
