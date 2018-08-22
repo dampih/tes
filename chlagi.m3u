@@ -3,22 +3,10 @@
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="VOD 1"  group-title="VOD",VOD 1
 https://1fiag0u.oloadcdn.net/dl/l/dQd_XJLwZNkcqySP/Q5Zv3uaIKTI/7616-BLURAY.mp4?mime=true
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Larva Tube"  group-title="ANAK",Larva Tube
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/xBOtIFq8yAk.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r8---sn-2uuxa3vh-jb3z.googlevideo.com/gcr/id/ei/rup4W7D1PLKD8QOY2rvwDg/playlist_type/DVR/initcwndbps/3730/mm/32/mn/sn-2uuxa3vh-jb3z/ms/lv/mv/m/pcm2cms/yes/pl/21/dover/10/keepalive/yes/mt/1534650973/ip/125.166.15.183/ipbits/0/expire/1534672655/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,ei,playlist_type,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/AD83025836A4E1A7E73C02034EE0F409125823.57D85C434D9027E3B69D9D6FDB077DF64C1E0A90/key/dg_yt0/playlist/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WB KIDS"  group-title="ANAK",WB KIDS
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/GP0UqxrTurc.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-npoe7ne6.googlevideo.com/ei/_ul4W6LQIcmoz7sPot2BiA8/gcr/id/playlist_type/DVR/initcwndbps/3690/mm/32/mn/sn-npoe7ne6/ms/lv/mv/m/pl/21/dover/10/keepalive/yes/mt/1534650797/ip/125.166.15.183/ipbits/0/expire/1534672478/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,gcr,playlist_type,initcwndbps,mm,mn,ms,mv,pl/signature/37D411938500308715EE3DF5270A6EB3E5B61A75.384F41FA67C632C10AE4FDACBFCBF158E6434D22/key/dg_yt0/playlist/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K-POP"  group-title="KOREA",K-POP
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/bV-ccAW3e2I.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-npoe7ne6.googlevideo.com/ei/buh4W9_TNa2Dz7sP2pSQoAo/playlist_type/DVR/gcr/id/initcwndbps/3540/mm/32/mn/sn-npoe7ne6/ms/lv/mv/m/pl/21/dover/10/keepalive/yes/mt/1534650374/ip/125.166.15.183/ipbits/0/expire/1534672078/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/335E2126DFC0BDB222A13EC206516E1625DE7ECD.5D9F5004C8D11E0BCF89AFF635B1982BA88F7F19/key/dg_yt0/playlist/index.m3u8
-#EXTINF:-1, tvg-id="ANTV" tvg-logo="Logo N/A" tvg-name="ANTV 3"  group-title="LOKAL",ANTV 3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/x1-dbIbaGc8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-2uuxa3vh-jb3z.googlevideo.com/ei/-Mh4W8fsNbinz7sPiJermAc/gcr/id/playlist_type/DVR/initcwndbps/4050/mm/32/mn/sn-2uuxa3vh-jb3z/ms/lv/mv/m/pcm2cms/yes/pl/21/dover/10/keepalive/yes/mt/1534642338/ip/125.166.15.183/ipbits/0/expire/1534664024/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,gcr,playlist_type,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/5A9BF8CE160D102F1300F394C8C05F8186F24658.08CBCD2E7590371A0F5E8917D6B68525C86D28AE/key/dg_yt0/playlist/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mekkah Live"  group-title="IBADAH",Mekkah Live
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15338.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madinah Live"  group-title="IBADAH",Madinah Live
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7990.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD 3  group-title="LOKAL",NET TV HD 3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/zty86XvC_iM.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-2uuxa3vh-jb36.googlevideo.com/ei/t8R4W9W6IsadoQPN5oDYDw/playlist_type/DVR/gcr/id/initcwndbps/3580/mm/32/mn/sn-2uuxa3vh-jb36/ms/lv/mv/m/pcm2cms/yes/pl/21/dover/10/keepalive/yes/mt/1534641200/ip/125.166.15.183/ipbits/0/expire/1534662935/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/58809C82EB6C2F5A39469942667707FB697EB5AE.052F24FE0C4850B058ADF9EEC5D8E045F3992C5D/key/dg_yt0/playlist/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SBS IN HD 2t"  group-title="KOREA",SBS IN HD 2t
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/lbtrPwzGcYc.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-2uuxa3vh-jb36.googlevideo.com/ei/n8F4W-bjHYm6z7sPgPm6kAo/playlist_type/DVR/gcr/id/initcwndbps/4290/mm/32/mn/sn-2uuxa3vh-jb36/ms/lv/mv/m/pcm2cms/yes/pl/21/dover/10/keepalive/yes/mt/1534640475/ip/125.166.15.183/ipbits/0/expire/1534662143/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,initcwndbps,mm,mn,ms,mv,pcm2cms,pl/signature/0278F84772A1CDD4D17EEB05C22520FB1A035DC8.064D4FA734B457A2799B276CACD8A07215D19CBB/key/dg_yt0/playlist/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/244.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="SEMUA",WWE Network
@@ -273,10 +261,16 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/338.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="FILM",Thrill
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/4.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Thrill 2"  group-title="FILM",Thrill 2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX"  group-title="FILM",KIX
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/8.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX 2"  group-title="FILM",KIX 2
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="FILM",AXN
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/9.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN 2"  group-title="FILM",AXN 2
+http://210.210.155.35/session/a396f2bc-8b5f-11e8-9a78-b82a72d63267/uq2663/h/h09/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Golf Channel"  group-title="SEMUA",Golf Channel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/561.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="B4U Music"  group-title="SEMUA",B4U Music
@@ -883,6 +877,8 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/335.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="ANAK",Nickelodeon
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/252.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon 2"  group-title="ANAK",Nickelodeon 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$NickelodeonHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="ANAK",Nick Jr
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/522.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="PBS Kids"  group-title="ANAK",PBS Kids
@@ -891,6 +887,8 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/306.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network ID"  group-title="ANAK",Cartoon Network ID
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/680.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network 2"  group-title="ANAK",Cartoon Network 2
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/14287.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="ANAK",Cartoon Network
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/214.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="ANAK",Boomerang
@@ -905,14 +903,20 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/341.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jim Jam"  group-title="ANAK",Jim Jam
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior 2"  group-title="ANAK",Disney Junior 2
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/27359.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="ANAK",Disney Junior
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/213.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Kids"  group-title="ANAK",Diamond Kids
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/580.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus"  group-title="ANAK",Aniplus
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/2.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus 2"  group-title="ANAK",Aniplus 2
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/index1.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="ANAK",Animax
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/3.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax 2"  group-title="ANAK",Animax 2
+http://210.210.155.35/session/19f392e8-7ce8-11e8-b6ec-b82a72d63267/uq2663/h/h18/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CBeebies"  group-title="ANAK",CBeebies
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/491.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Kids"  group-title="ANAK",Discovery Kids
@@ -927,6 +931,8 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/213.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jim Jam"  group-title="ANAK",Jim Jam
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="ANAK",Nick
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/14321.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr 2"  group-title="ANAK",Nick Jr 2
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/341.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bein Junior"  group-title="ANAK",Bein Junior
@@ -945,12 +951,16 @@ http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/sel
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/306.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="PBS Kids"  group-title="ANAK",PBS Kids
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/523.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr 2"  group-title="ANAK",Nick Jr 2
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/27321.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="ANAK",Nick Jr
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/522.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="ANAK",Nickelodeon
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/252.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Toons"  group-title="ANAK",Nick Toons
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/335.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney XD 2"  group-title="ANAK",Disney XD 2
+http://streams.tvxweb.org:5196/live/stalker_new/nlJ75y0D08192018/16580.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="ANAK",Disney XD
 http://sg.ganteng.stream:8888/live/selamatharirayaiduladhayukdownloadacaratv/selamatharirayaiduladhayukdownloadacaratv/104.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diamond Kids"  group-title="ANAK",Diamond Kids
