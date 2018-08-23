@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT HD GO CH1"  group-title="SPORT",ASTRO SUPERSPORT HD GO CH1
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8_07.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT LIVE HD GO CH3"  group-title="SPORT",ASTRO SUPERSPORT LIVE HD GO CH3
+http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8_07.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT LIVE HD GO CH2"  group-title="SPORT",ASTRO SUPERSPORT LIVE HD GO CH2
+http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8_07.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ASTRO ARENA HD GO"  group-title="SPORT",ASTRO ARENA HD GO
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX MOVIES PREMIUM 2"  group-title="FILM",FOX MOVIES PREMIUM 2
 http://210.210.155.35/session/b5f44c4a-7dac-11e8-98cf-b82a72d63267/uq2663/h/h14/01.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIZNET KIDS 2"  group-title="ANAK",BIZNET KIDS 2
