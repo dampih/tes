@@ -4,7 +4,7 @@ http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="VOD 1"  group-title="VOD",VOD 1
 https://1fiag0u.oloadcdn.net/dl/l/dQd_XJLwZNkcqySP/Q5Zv3uaIKTI/7616-BLURAY.mp4?mime=true
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mekkah Live"  group-title="IBADAH",Mekkah Live
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15338.m3u8
+http://pro.smartgotv.com:8005/live/mondher/mondher/2264.ts
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madinah Live"  group-title="IBADAH",Madinah Live
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7990.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="SEMUA",Real Madrid TV
