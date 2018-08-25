@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, group-title="DENS", (N) DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) AVAVA BOLLYWOOD
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) DIAMOND KIDS
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:-1, group-title="DENS", (N) INSPIRA TV
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 #EXTINF:-1, group-title="DENS",(D)Da Vinci
 http://210.210.155.35/uq2663/h/h01/01.m3u8
 #EXTINF:-1, group-title="DENS",(D)ANIPLUS
