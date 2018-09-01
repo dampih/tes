@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="SPORT", REAL MADRID TV ENG
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1, group-title="DENS", (N) DIAMOND TV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
 #EXTINF:-1, group-title="DENS", (N) AVAVA BOLLYWOOD
