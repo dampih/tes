@@ -169,8 +169,8 @@ http://playbackn17.aotg-video.astro.com.my/CH3/master_NADIAG18_8_05.m3u8
 http://210.210.155.35/session/b5f44c4a-7dac-11e8-98cf-b82a72d63267/uq2663/h/h14/01.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIZNET KIDS 2"  group-title="ANAK",BIZNET KIDS 2
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="VOD 1"  group-title="VOD",VOD 1
-https://1fiag0u.oloadcdn.net/dl/l/dQd_XJLwZNkcqySP/Q5Zv3uaIKTI/7616-BLURAY.mp4?mime=true
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Doraemon 2018"  group-title="VOD",Doraemon 2018
+https://www.googleapis.com/drive/v3/files/1D9F39vgIEuVyMiaqY9pprh9-vYqqIi7M?alt=media&key=AIzaSyA5AThH36sRlF_ZwZzp27hrHnQa1TfDjkE
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mekkah Live"  group-title="IBADAH",Mekkah Live
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Madinah Live"  group-title="IBADAH",Madinah Live
