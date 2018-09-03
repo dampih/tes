@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="In The Darkness 2018"  group-title="VOD",In The Darkness 2018
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="In The Darkness 2018" subtitles="https://raw.githubusercontent.com/dampih/tes/master/dist/%5Bkuning%5DIn.Darkness.2018.BluRay.%5Bnerdian%5D.srt"  group-title="VOD",In The Darkness 2018
 https://www.googleapis.com/drive/v3/files/1Wg65ZTxYapB6IMZrOT-7MJGxT_8bdknF?alt=media&key=AIzaSyA5AThH36sRlF_ZwZzp27hrHnQa1TfDjkE
 #EXTINF:-1, group-title="SPORT", REAL MADRID TV ENG
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
