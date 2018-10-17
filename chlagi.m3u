@@ -1,7 +1,7 @@
 #EXTM3U Albdroid TV
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild 2" tvg-logo="" group-title="Knowledge",Nat Geo Wild 2
 #EXTVLCOPT:http-user-agent=exo_video_view
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/261.ts|User-Agent=”exo_video_view”
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/261.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People" tvg-logo="" group-title="Knowledge",Nat Geo People
 #EXTVLCOPT:http-user-agent=exo_video_view
 http://vip.daengstream.com:8080/live/trialpremium/trialpremium/260.ts
