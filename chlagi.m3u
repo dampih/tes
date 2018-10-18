@@ -1,4 +1,34 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9" tvg-logo="" group-title="Sports",BEIN SPORTS 9
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/299.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="Sports",BEIN SPORTS 8
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/298.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="Sports",BEIN SPORTS 7
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/297.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="Sports",BEIN SPORTS 6
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/296.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="Sports",BEIN SPORTS 5
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/295.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="Sports",BEIN SPORTS 4
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/294.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="Sports",BEIN SPORTS 3
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/293.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="Sports",BEIN SPORTS 2
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/292.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="Sports",BEIN SPORTS 12
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/302.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="Sports",BEIN SPORTS 11
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/301.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10" tvg-logo="" group-title="Sports",BEIN SPORTS 10
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/300.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="Sports",BEIN SPORTS 1
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/291.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="GONG MAX" tvg-logo="" group-title="Movie",GONG MAX
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/290.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="&PRIVE HD" tvg-logo="" group-title="Movie",&PRIVE HD
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/289.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="&FLIX HD" tvg-logo="" group-title="Movie",&FLIX HD
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/288.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild 2" tvg-logo="" group-title="Knowledge",Nat Geo Wild 2
 #EXTVLCOPT:http-user-agent=exo_video_view
 http://vip.daengstream.com:8080/live/trialpremium/trialpremium/261.ts|User-Agent="exo_video_view"
