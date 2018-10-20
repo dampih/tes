@@ -1,4 +1,7 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="Useetvtest" tvg-logo="" group-title="Sports",Useetvtest
+#EXTVLCOPT:http-user-agent=ExoMedia 4.0.3 (40300)
+http://180.250.29.11/jhos/useesport_2/1540006944/playlist.m3u8?stime=20181020100000&etime=20181020120000&encoded=0118d3d4e8720e0075d93|User-Agent="ExoMedia 4.0.3 (40300)"
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9" tvg-logo="" group-title="Sports",BEIN SPORTS 9
 http://vip.daengstream.com:8080/live/trialpremium/trialpremium/299.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="Sports",BEIN SPORTS 8
