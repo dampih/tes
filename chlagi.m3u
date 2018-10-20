@@ -2,30 +2,46 @@
 #EXTINF:-1 tvg-ID="" tvg-name="Useetvtest" tvg-logo="" group-title="Sports",Useetvtest
 #EXTVLCOPT:http-user-agent=ExoMedia 4.0.3 (40300)
 http://180.250.29.11/jhos/useesport_2/1540006944/playlist.m3u8?stime=20181020100000&etime=20181020120000&encoded=0118d3d4e8720e0075d93|User-Agent="ExoMedia 4.0.3 (40300)"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9" tvg-logo="" group-title="Sports",BEIN SPORTS 9
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/299.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="Sports",BEIN SPORTS 8
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/298.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="Sports",BEIN SPORTS 7
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/297.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="Sports",BEIN SPORTS 6
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/296.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="Sports",BEIN SPORTS 5
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/295.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="Sports",BEIN SPORTS 4
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/294.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="Sports",BEIN SPORTS 3
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/293.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="Sports",BEIN SPORTS 2
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/292.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="Sports",BEIN SPORTS 12
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/302.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="Sports",BEIN SPORTS 11
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/301.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10" tvg-logo="" group-title="Sports",BEIN SPORTS 10
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/300.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="Sports",BEIN SPORTS 1
-http://vip.daengstream.com:8080/live/trialpremium/trialpremium/291.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SkySport 3 Italy" tvg-logo="" group-title="Sports",SkySport 3 Italy
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/325.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SkySport 2 Italy" tvg-logo="" group-title="Sports",SkySport 2 Italy
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/324.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SkySport 1 Italy" tvg-logo="" group-title="Sports",SkySport 1 Italy
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/323.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SkyCalcio 2 Italy" tvg-logo="" group-title="Sports",SkyCalcio 2 Italy
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/327.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SkyCalcio 1 Italy" tvg-logo="" group-title="Sports",SkyCalcio 1 Italy
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/326.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 8 HD (AR)." tvg-logo="" group-title="Sports",BeIN SPORTS 8 HD (AR).
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/320.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 7 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 7 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/319.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 6 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 6 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/318.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 5 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 5 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/317.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 4 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 4 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/316.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 3 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 3 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/315.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 2 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 2 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/314.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN SPORTS 10 HD (AR)" tvg-logo="" group-title="Sports",BeIN SPORTS 10 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/322.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 1 HD (AR)" tvg-logo="" group-title="Sports",BeIN Sport 1 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/313.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sorts 9 HD (AR)" tvg-logo="" group-title="Sports",BeIN Sorts 9 HD (AR)
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/321.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports HD" tvg-logo="" group-title="Sports",Skynet Sports HD
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/306.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 5" tvg-logo="" group-title="Sports",Skynet Sports 5
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/311.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 3" tvg-logo="" group-title="Sports",Skynet Sports 3
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/309.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 2" tvg-logo="" group-title="Sports",Skynet Sports 2
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/308.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports" tvg-logo="" group-title="Sports",FOX Sports
+http://vip.daengstream.com:8080/live/trialpremium/trialpremium/304.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="GONG MAX" tvg-logo="" group-title="Movie",GONG MAX
 http://vip.daengstream.com:8080/live/trialpremium/trialpremium/290.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="&PRIVE HD" tvg-logo="" group-title="Movie",&PRIVE HD
