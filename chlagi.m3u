@@ -1,4 +1,12 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 3 HD" tvg-logo="" group-title="Sports",FOX Sports 3 HD
+http://206.189.153.9:8008/live/kepotv/kepotv@2018/1814.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3" tvg-logo="" group-title="Sports",FOX SPORT 3
+http://206.189.153.9:8008/live/kepotv/kepotv@2018/1901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="" group-title="Sports",FOX SPORT 2
+http://206.189.153.9:8008/live/kepotv/kepotv@2018/1900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 1" tvg-logo="" group-title="Sports",FOX SPORT 1
+http://206.189.153.9:8008/live/kepotv/kepotv@2018/1899.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI 2" tvg-logo="" group-title="Lokal",RCTI 2
 http://206.189.153.9:8008/live/kepotv/kepotv@2018/1831.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION ID HD" tvg-logo="" group-title="Movie",FOX ACTION ID HD
