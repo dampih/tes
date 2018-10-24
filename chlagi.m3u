@@ -1,4 +1,13 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI 2" tvg-logo="" group-title="Lokal",RCTI 2
+http://206.189.153.9:8008/live/kepotv/kepotv@2018/1831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION ID HD" tvg-logo="" group-title="Movie",FOX ACTION ID HD
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=17241391&tsum=6d55048057ba5abaece4bddb65b52df7
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIE ID" tvg-logo="" group-title="Movie",FOX MOVIE ID
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=14832520&tsum=04b60aba7b3928a04fbbff710fbf51da
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HITS ID" tvg-logo="" group-title="Movie",HBO HITS ID
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=18788657&tsum=3cc07023bbbcc9e0a53f7ffd28cc2d47
+#EXTINF:-1 tvg-ID="" tvg-name="game" tvg-logo="" group-title="Sports",game
 #EXTINF:-1 tvg-ID="" tvg-name="Useetvtest" tvg-logo="" group-title="Sports",Useetvtest
 #EXTVLCOPT:http-user-agent=ExoMedia 4.0.3 (40300)
 http://180.250.29.11/jhos/useesport_2/1540006944/playlist.m3u8?stime=20181020100000&etime=20181020120000&encoded=0118d3d4e8720e0075d93|User-Agent="ExoMedia 4.0.3 (40300)"
