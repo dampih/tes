@@ -1,4 +1,6 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2 (2)" tvg-logo="" group-title="Sports",FOX SPORT 2 (2)
+http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI 3" tvg-logo="" group-title="Lokal",RCTI 3
 #EXTVLCOPT:http-user-agent=LiveVibes QuickPlayer
 https://cdn-livetv2.metube.id/hls/rctinow_480/index.m3u8|User-Agent="LiveVibes QuickPlayer"
