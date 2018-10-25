@@ -7,10 +7,10 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1
 http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI 3" tvg-logo="" group-title="Lokal",RCTI 3
 #EXTVLCOPT:http-user-agent=LiveVibes QuickPlayer
-https://cdn-livetv2.metube.id/hls/rctinow_480/index.m3u8|User-Agent="LiveVibes QuickPlayer"|Host="cdn-livetv2.metube.id"
+https://cdn-livetv2.metube.id/hls/rctinow_480/index.m3u8|User-Agent="LiveVibes QuickPlayer"
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI 4" tvg-logo="" group-title="Lokal",RCTI 4
 #EXTVLCOPT:http-user-agent=LiveVibes QuickPlayer
-https://cdn-livetv2.metube.id/hls/rctinow_480/index.m3u8|User-Agent="LiveVibes QuickPlayer" Host=cdn-livetv2.metube.id
+https://cdn-livetv2.metube.id/hls/rctinow_480/index.m3u8|User-Agent=LiveVibes QuickPlayer
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Sports 3 HD" tvg-logo="" group-title="Sports",FOX Sports 3 HD
 http://206.189.153.9:8008/live/kepotv/kepotv@2018/1814.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3" tvg-logo="" group-title="Sports",FOX SPORT 3
