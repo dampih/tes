@@ -1,4 +1,8 @@
 #EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="Sport 1" tvg-logo="" group-title="Sports",Sport 1
+http://d1zh7xt46u5uth.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Sport" tvg-logo="" group-title="Sports",Rai Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2 (2)" tvg-logo="" group-title="Sports",FOX SPORT 2 (2)
 http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI 3" tvg-logo="" group-title="Lokal",RCTI 3
