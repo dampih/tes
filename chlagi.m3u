@@ -1,0 +1,171 @@
+#EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="TVONE" tvg-logo="" group-title="",TVONE
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/107.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="" group-title="",SCTV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/104.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="MNCTV" tvg-logo="" group-title="",MNCTV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/106.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="KOMPAS TV" tvg-logo="" group-title="",KOMPAS TV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/108.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="" group-title="",iNews
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/103.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" tvg-logo="" group-title="",INDOSIAR
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/105.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL TV" tvg-logo="" group-title="",GLOBAL TV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/109.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="" group-title="",Fox Cinema
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/102.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="",NHK WORLD JAPAN
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/85.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="MUZIK AKTIF" tvg-logo="" group-title="",MUZIK AKTIF
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/92.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU WORLD" tvg-logo="" group-title="",BERITA SATU WORLD
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/82.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT2" tvg-logo="" group-title="",ADSPORT2
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/75.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT1" tvg-logo="" group-title="",ADSPORT1
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/74.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="1NEWS" tvg-logo="" group-title="",1NEWS
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/93.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="METRO TV" tvg-logo="" group-title="",METRO TV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/67.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="CNN INDONESIA" tvg-logo="" group-title="",CNN INDONESIA
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/66.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="" group-title="",TVRI
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/61.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="" group-title="",RCTI
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/60.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Nada Muslim" tvg-logo="" group-title="",Nada Muslim
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/59.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="JAKARTA GLOBE" tvg-logo="" group-title="",JAKARTA GLOBE
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/62.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR gojek" tvg-logo="" group-title="",INDOSIAR gojek
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/64.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU" tvg-logo="" group-title="",BERITA SATU
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/65.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS7" tvg-logo="" group-title="",TRANS7
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/38.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" tvg-logo="" group-title="",TRANS TV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/37.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="",ANTV
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/36.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="",K
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/12.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="",TVRI Sport
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/7.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="" group-title="",CELESTIAL MOVIE ID
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/6.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="" group-title="",Zee Bioskop
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/3.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="" group-title="",SBS ID
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/4.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="" group-title="",KIX
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/5.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="thrill" tvg-logo="" group-title="",thrill
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/1.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="HBO ID" tvg-logo="" group-title="",HBO ID
+http://x.daengstream.com:8080/live/trialpremium/trialpremium/2.ts|User-Agent="exo_video_view"
+#EXTINF:-1 tvg-ID="" tvg-name="Davinci" tvg-logo="" group-title="Dens",(D)Davinci
+http://210.210.155.35/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Kix" tvg-logo="" group-title="Dens",(D)Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)K+" tvg-logo="" group-title="Dens",(D)K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)NHK World" tvg-logo="" group-title="Dens",(D)NHK World
+http://210.210.155.35/uq2663/h/h23/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)SBSin HD" tvg-logo="" group-title="Dens",(D)SBSin HD
+http://210.210.155.35/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)AXN HD" tvg-logo="" group-title="Dens",(D)AXN HD
+http://210.210.155.35/uq2663/h/h142/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Sony Gem" tvg-logo="" group-title="Dens",(D)Sony Gem
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)HBO HD" tvg-logo="" group-title="Dens",(D)HBO HD
+http://210.210.155.35/uq2663/h/h231/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Golf HD" tvg-logo="" group-title="Dens",(D)Golf HD
+http://210.210.155.35/uq2663/h/h232/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)WB TV" tvg-logo="" group-title="Dens",(D)WB TV
+http://210.210.155.35/uq2663/h/h233/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CCN Indonesia" tvg-logo="" group-title="Dens",(D)CCN Indonesia
+http://210.210.155.35/uq2663/h/h234/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Lifetime" tvg-logo="" group-title="Dens",(D)Lifetime
+http://210.210.155.35/uq2663/h/h235/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)My Kids" tvg-logo="" group-title="Dens",(D)My Kids
+http://210.210.155.35/x6bnqe/s/s30/index2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)My Cinema" tvg-logo="" group-title="Dens",(D)My Cinema
+http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TVONE" tvg-logo="" group-title="Dens",(D)TVONE
+http://210.210.155.35/qwr9ew/s/s02/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)SCTV" tvg-logo="" group-title="Dens",(D)SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)INDOSIAR" tvg-logo="" group-title="Dens",(D)INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TRANS TV" tvg-logo="" group-title="Dens",(D)TRANS TV
+http://210.210.155.35/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TRANS 7" tvg-logo="" group-title="Dens",(D)TRANS 7
+http://210.210.155.35/qwr9ew/s/s06/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)ANTV" tvg-logo="" group-title="Dens",(D)ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)NET TV" tvg-logo="" group-title="Dens",(D)NET TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NET TV HD 2"  group-title="Dens",NET TV HD 2
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)KOMPAS TV" tvg-logo="" group-title="Dens",(D)KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)ELSHINTA TV" tvg-logo="" group-title="Dens",(D)ELSHINTA TV
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TVRI" tvg-logo="" group-title="Dens",(D)TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)RTV" tvg-logo="" group-title="Dens",(D)RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)DAAI TV" tvg-logo="" group-title="Dens",(D)DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)RODJA TV" tvg-logo="" group-title="Dens",(D)RODJA TV
+http://210.210.155.35/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)EURONEWS" tvg-logo="" group-title="Dens",(D)EURONEWS
+http://210.210.155.35/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Aljazeera Arab" tvg-logo="" group-title="Dens",(D)Aljazeera Arab
+http://210.210.155.35/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)Aljazeera English" tvg-logo="" group-title="Dens",(D)Aljazeera English
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CCTV4" tvg-logo="" group-title="Dens",(D)CCTV4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CGTN" tvg-logo="" group-title="Dens",(D)CGTN
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CNEWS" tvg-logo="" group-title="Dens",(D)CNEWS
+http://210.210.155.35/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)RFI TALENT" tvg-logo="" group-title="Dens",(D)RFI TALENT
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)RTV" tvg-logo="" group-title="Dens",(D)RTV
+http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TV5MONDE" tvg-logo="" group-title="Dens",(D)TV5MONDE
+http://210.210.155.35/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TVE" tvg-logo="" group-title="Dens",(D)TVE
+http://210.210.155.35/qwr9ew/s/s25/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)DW" tvg-logo="" group-title="Dens",(D)DW
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)SUNNAH TV" tvg-logo="" group-title="Dens",(D)SUNNAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)QURAN TV" tvg-logo="" group-title="Dens",(D)QURAN TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CINA TV" tvg-logo="" group-title="Dens",(D)CINA TV
+http://210.210.155.35/qwr9ew/s/s29/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)ZEE BIOSKIP" tvg-logo="" group-title="Dens",(D)ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CELESTIAL Movie" tvg-logo="" group-title="Dens",(D)CELESTIAL Movie
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)THRILL" tvg-logo="" group-title="Dens",(D)THRILL
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)RTP" tvg-logo="" group-title="Dens",(D)RTP
+http://210.210.155.35/qwr9ew/s/s38/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TBN" tvg-logo="" group-title="Dens",(D)TBN
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)KTV" tvg-logo="" group-title="Dens",(D)KTV
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)IN TV" tvg-logo="" group-title="Dens",(D)IN TV
+http://210.210.155.35/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)TVRI SPORT" tvg-logo="" group-title="Dens",(D)TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s48/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)METRO TV" tvg-logo="" group-title="Dens",(D)METRO TV
+http://210.210.155.35/qwr9ew/s/s49/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(D)CINA TOON" tvg-logo="" group-title="Dens",(D)CINA TOON
+http://210.210.155.35/qwr9ew/s/s50/01.m3u8
