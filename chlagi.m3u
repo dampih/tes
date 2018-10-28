@@ -111,7 +111,7 @@ http://x.daengstream.com:8080/live/trialpremium/trialpremium/37.ts|User-Agent="e
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/36.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="MOVIE",K
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/12.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="SPORT" group-title="",TVRI Sport
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="SPORT",TVRI Sport
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/7.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="" group-title="MOVIE",CELESTIAL MOVIE ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/6.ts|User-Agent="exo_video_view"
