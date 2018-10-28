@@ -115,7 +115,7 @@ http://x.daengstream.com:8080/live/trialpremium/trialpremium/12.ts|User-Agent="e
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/7.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="" group-title="MOVIE",CELESTIAL MOVIE ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/6.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="MOVIE" group-title="",Zee Bioskop
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="" group-title="MOVIE",Zee Bioskop
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/3.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="" group-title="MOVIE",SBS ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/4.ts|User-Agent="exo_video_view"
