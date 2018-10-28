@@ -1,69 +1,129 @@
 #EXTM3U Albdroid TV
-#EXTINF:-1 tvg-ID="" tvg-name="TVONE" tvg-logo="" group-title="",TVONE
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hu1qvp/tvri.png" group-title="Lokal",TVRI 2
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png" group-title="Lokal",I News 2
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gNbOFp/tvone.png" group-title="Lokal",TV One 2
+http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fQHkT9/trans_TV.png" group-title="Lokal",TRANS TV 2
+http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bwzM1U/trans7.png" group-title="Lokal",TRANS 7 2
+http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bxSKo9/net.png" group-title="Lokal",NET. 2
+http://202.80.222.171/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bxSKo9/net.png" group-title="Lokal",NET HD 3.
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fLZM1U/rcti.png" group-title="Lokal",RCTI 2
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gEVTgU/gtv.png" group-title="Lokal",GTV 2
+http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i6Yg1U/sctv.png" group-title="Lokal",SCTV 2
+http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.9" group-title="Lokal",JAKTV 2
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gyJEMU/cnn.png" group-title="Lokal",CNN Indonesia 2
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mJkuMU/berita_satu.png" group-title="Lokal",BERITA SATU 2
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 1 EREDIVISIE HD" tvg-logo="" group-title="SPORT",FOX SPORTS 1 EREDIVISIE HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2150.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 2 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2145.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 EREDIVISIE" tvg-logo="" group-title="SPORT",FOX SPORTS 3 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 4 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 4 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2147.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 5 EREDIVISIE" tvg-logo="" group-title="SPORT",FOX SPORTS 5 EREDIVISIE
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2148.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 6 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 6 INTERNATIONAAL
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2149.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT NEWS HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT NEWS HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 1 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 1 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 2 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 2 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 3 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 3 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 4 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 4 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 5 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 5 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 6 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 6 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 7 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 7 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 8 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 8 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 9 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 9 HD ARABIA
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="SPORT",BEIN LA LIGA HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVONE" tvg-logo="" group-title="Lokal",TVONE
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/107.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="" group-title="",SCTV
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="" group-title="Lokal",SCTV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/104.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="MNCTV" tvg-logo="" group-title="",MNCTV
+#EXTINF:-1 tvg-ID="" tvg-name="MNCTV" tvg-logo="" group-title="Lokal",MNCTV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/106.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="KOMPAS TV" tvg-logo="" group-title="",KOMPAS TV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/108.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="" group-title="",iNews
+#EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="" group-title="Lokal",iNews
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/103.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" tvg-logo="" group-title="",INDOSIAR
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" tvg-logo="" group-title="Lokal",INDOSIAR
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/105.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL TV" tvg-logo="" group-title="",GLOBAL TV
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL TV" tvg-logo="" group-title="Lokal",GLOBAL TV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/109.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="" group-title="",Fox Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Cinema" tvg-logo="" group-title="MOVIE",Fox Cinema
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/102.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="",NHK WORLD JAPAN
+#EXTINF:-1 tvg-ID="" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="News",NHK WORLD JAPAN
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/85.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="MUZIK AKTIF" tvg-logo="" group-title="",MUZIK AKTIF
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/92.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU WORLD" tvg-logo="" group-title="",BERITA SATU WORLD
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU WORLD" tvg-logo="" group-title="News",BERITA SATU WORLD
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/82.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT2" tvg-logo="" group-title="",ADSPORT2
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT2" tvg-logo="" group-title="SPORT",ADSPORT2
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/75.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT1" tvg-logo="" group-title="",ADSPORT1
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT1" tvg-logo="" group-title="SPORT",ADSPORT1
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/74.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="1NEWS" tvg-logo="" group-title="",1NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="1NEWS" tvg-logo="" group-title="News",1NEWS
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/93.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="METRO TV" tvg-logo="" group-title="",METRO TV
+#EXTINF:-1 tvg-ID="" tvg-name="METRO TV" tvg-logo="" group-title="Lokal",METRO TV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/67.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="CNN INDONESIA" tvg-logo="" group-title="",CNN INDONESIA
+#EXTINF:-1 tvg-ID="" tvg-name="CNN INDONESIA" tvg-logo="" group-title="Lokal",CNN INDONESIA
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/66.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="" group-title="",TVRI
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="" group-title="Lokal",TVRI
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/61.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="" group-title="",RCTI
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="" group-title="Lokal",RCTI
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/60.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Nada Muslim" tvg-logo="" group-title="",Nada Muslim
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/59.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="JAKARTA GLOBE" tvg-logo="" group-title="",JAKARTA GLOBE
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/62.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR gojek" tvg-logo="" group-title="",INDOSIAR gojek
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR gojek" tvg-logo="Lokal" group-title="",INDOSIAR gojek
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/64.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU" tvg-logo="" group-title="",BERITA SATU
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU" tvg-logo="Lokal" group-title="",BERITA SATU
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/65.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="TRANS7" tvg-logo="" group-title="",TRANS7
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS7" tvg-logo="" group-title="Lokal",TRANS7
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/38.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" tvg-logo="" group-title="",TRANS TV
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" tvg-logo="" group-title="Lokal",TRANS TV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/37.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="",ANTV
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="Lokal",ANTV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/36.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="",K
+#EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="Lokal",K
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/12.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="",TVRI Sport
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="SPORT" group-title="",TVRI Sport
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/7.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="" group-title="",CELESTIAL MOVIE ID
+#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="MOVIE" group-title="",CELESTIAL MOVIE ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/6.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="" group-title="",Zee Bioskop
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="MOVIE" group-title="",Zee Bioskop
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/3.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="" group-title="",SBS ID
+#EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="MOVIE" group-title="",SBS ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/4.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="" group-title="",KIX
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="MOVIE" group-title="",KIX
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/5.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="thrill" tvg-logo="" group-title="",thrill
+#EXTINF:-1 tvg-ID="" tvg-name="thrill" tvg-logo="MOVIE" group-title="",thrill
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/1.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="HBO ID" tvg-logo="" group-title="",HBO ID
+#EXTINF:-1 tvg-ID="" tvg-name="HBO ID" tvg-logo="MOVIE" group-title="",HBO ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/2.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Davinci" tvg-logo="" group-title="Dens",(D)Davinci
 http://210.210.155.35/uq2663/h/h01/01.m3u8
