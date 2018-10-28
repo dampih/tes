@@ -109,21 +109,21 @@ http://x.daengstream.com:8080/live/trialpremium/trialpremium/38.ts|User-Agent="e
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/37.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="" group-title="Lokal",ANTV
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/36.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="Lokal",K
+#EXTINF:-1 tvg-ID="" tvg-name="K" tvg-logo="" group-title="MOVIE",K
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/12.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="SPORT" group-title="",TVRI Sport
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/7.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="MOVIE" group-title="",CELESTIAL MOVIE ID
+#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL MOVIE ID" tvg-logo="" group-title="MOVIE",CELESTIAL MOVIE ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/6.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="MOVIE" group-title="",Zee Bioskop
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/3.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="MOVIE" group-title="",SBS ID
+#EXTINF:-1 tvg-ID="" tvg-name="SBS ID" tvg-logo="" group-title="MOVIE",SBS ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/4.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="MOVIE" group-title="",KIX
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="" group-title="MOVIE",KIX
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/5.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="thrill" tvg-logo="MOVIE" group-title="",thrill
+#EXTINF:-1 tvg-ID="" tvg-name="thrill" tvg-logo="" group-title="MOVIE",thrill
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/1.ts|User-Agent="exo_video_view"
-#EXTINF:-1 tvg-ID="" tvg-name="HBO ID" tvg-logo="MOVIE" group-title="",HBO ID
+#EXTINF:-1 tvg-ID="" tvg-name="HBO ID" tvg-logo="" group-title="MOVIE",HBO ID
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/2.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="Davinci" tvg-logo="" group-title="Dens",(D)Davinci
 http://210.210.155.35/uq2663/h/h01/01.m3u8
