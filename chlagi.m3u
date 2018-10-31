@@ -1,5 +1,76 @@
 #EXTM3U Albdroid TV
-#EXTINF:-1 tvg-logo="" group-title="Lokal",RCTI Bola
+#EXTINF:-1 group-title="SPORT",ad sport 2
+http://54.39.179.143:8000/live/test/server/2.ts
+#EXTINF:-1 group-title="SPORT",Bein sport 9
+http://54.39.179.143:8000/live/test/server/120.ts
+#EXTINF:-1 group-title="SPORT",Bein sport 12
+http://54.39.179.143:8000/live/test/server/123.ts
+#EXTINF:-1 group-title="SPORT",Bein sport 11
+http://54.39.179.143:8000/live/test/server/122.ts
+#EXTINF:-1 group-title="SPORT",Bein sport 10
+http://54.39.179.143:8000/live/test/server/121.ts
+#EXTINF:-1 group-title="SPORT",Bein sport Hd 8
+http://54.39.179.143:8000/live/test/server/119.ts
+#EXTINF:-1 group-title="SPORT",Bein sport hd 7
+http://54.39.179.143:8000/live/test/server/118.ts
+#EXTINF:-1 group-title="SPORT",Bein sport Hd 6
+http://54.39.179.143:8000/live/test/server/117.ts
+#EXTINF:-1 group-title="SPORT",Bein sport Hd 5
+http://54.39.179.143:8000/live/test/server/116.ts
+#EXTINF:-1 group-title="SPORT",Bein sport hd 4
+http://54.39.179.143:8000/live/test/server/115.ts
+#EXTINF:-1 group-title="SPORT",Bein sport Hd 3
+http://54.39.179.143:8000/live/test/server/114.ts
+#EXTINF:-1 group-title="SPORT",Bein sport Hd 2
+http://54.39.179.143:8000/live/test/server/113.ts
+#EXTINF:-1 group-title="SPORT",Bein sport hd 1
+http://54.39.179.143:8000/live/test/server/112.ts
+#EXTINF:-1 group-title="SPORT",BEIN LOW 1
+http://54.39.179.143:8000/live/test/server/71.ts
+#EXTINF:-1 group-title="SPORT",bein low-2
+http://54.39.179.143:8000/live/test/server/73.ts
+#EXTINF:-1 group-title="SPORT",bein low-3
+http://54.39.179.143:8000/live/test/server/74.ts
+#EXTINF:-1 group-title="SPORT",bein  low-4
+http://54.39.179.143:8000/live/test/server/75.ts
+#EXTINF:-1 group-title="SPORT",bein low-5
+http://54.39.179.143:8000/live/test/server/76.ts
+#EXTINF:-1 group-title="SPORT",bein low-6
+http://54.39.179.143:8000/live/test/server/77.ts
+#EXTINF:-1 group-title="SPORT",bein low-7
+http://54.39.179.143:8000/live/test/server/78.ts
+#EXTINF:-1 group-title="SPORT",bein  low-8
+http://54.39.179.143:8000/live/test/server/79.ts
+#EXTINF:-1 group-title="SPORT",BEIN low-9
+http://54.39.179.143:8000/live/test/server/80.ts
+#EXTINF:-1 group-title="SPORT",alkaas hd 1
+http://54.39.179.143:8000/live/test/server/81.ts
+#EXTINF:-1 group-title="SPORT",alkaas hd 2
+http://54.39.179.143:8000/live/test/server/82.ts
+#EXTINF:-1 group-title="SPORT",alkaas hd 3
+http://54.39.179.143:8000/live/test/server/83.ts
+#EXTINF:-1 group-title="SPORT",alkaas hd 4
+http://54.39.179.143:8000/live/test/server/84.ts
+#EXTINF:-1 group-title="SPORT",alkaas hd 5
+http://54.39.179.143:8000/live/test/server/85.ts
+#EXTINF:-1 group-title="SPORT",Super SPORT 5 HD
+http://54.39.179.143:8000/live/test/server/110.ts
+#EXTINF:-1 group-title="SPORT",Super SPORT 4 HD
+http://54.39.179.143:8000/live/test/server/109.ts
+#EXTINF:-1 group-title="SPORT",Super SPORT 3 HD
+http://54.39.179.143:8000/live/test/server/108.ts
+#EXTINF:-1 group-title="SPORT",Super SPORT 2 HD
+http://54.39.179.143:8000/live/test/server/107.ts
+#EXTINF:-1 group-title="SPORT",Super SPORT 1 HD
+http://54.39.179.143:8000/live/test/server/106.ts
+#EXTINF:-1 group-title="SPORT",Arena sport1
+http://54.39.179.143:8000/live/test/server/102.ts
+#EXTINF:-1 group-title="SPORT",Arena sport 4
+http://54.39.179.143:8000/live/test/server/105.ts
+#EXTINF:-1 group-title="SPORT",Arena sport 3
+http://54.39.179.143:8000/live/test/server/104.ts
+#EXTINF:-1 group-title="SPORT",Arena sport 2
+http://54.39.179.143:8000/live/test/server/103.ts#EXTINF:-1 tvg-logo="" group-title="Lokal",RCTI Bola
 http://id8.indostreamingtv.com/live/tv6/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hu1qvp/tvri.png" group-title="Lokal",TVRI 2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
@@ -27,40 +98,6 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mJkuMU/berita_satu.png" group-title="Lokal",BERITA SATU 2
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 1 EREDIVISIE HD" tvg-logo="" group-title="SPORT",FOX SPORTS 1 EREDIVISIE HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2150.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 2 INTERNATIONAAL
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2145.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 EREDIVISIE" tvg-logo="" group-title="SPORT",FOX SPORTS 3 EREDIVISIE
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2146.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 4 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 4 INTERNATIONAAL
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2147.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 5 EREDIVISIE" tvg-logo="" group-title="SPORT",FOX SPORTS 5 EREDIVISIE
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2148.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 6 INTERNATIONAAL" tvg-logo="" group-title="SPORT",FOX SPORTS 6 INTERNATIONAAL
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2149.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT NEWS HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT NEWS HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2165.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 1 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 1 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 2 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 2 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 3 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 3 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 4 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 4 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 5 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 5 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 6 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 6 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 7 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 7 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 8 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 8 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2162.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT 9 HD ARABIA" tvg-logo="" group-title="SPORT",BEIN SPORT 9 HD ARABIA
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="SPORT",BEIN LA LIGA HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2170.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TVONE" tvg-logo="" group-title="Lokal",TVONE
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/107.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="" group-title="Lokal",SCTV
