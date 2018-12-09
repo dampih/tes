@@ -5,6 +5,8 @@ https://www.googleapis.com/drive/v3/files/1D9F39vgIEuVyMiaqY9pprh9-vYqqIi7M?alt=
 https://www.googleapis.com/drive/v3/files/1wvcoU9YJYafJN1JnrTVnbVlvRZkszDay?alt=media&key=AIzaSyA5AThH36sRlF_ZwZzp27hrHnQa1TfDjkE
 #EXTINF:-1 group-title="LIVE", Real Madrid vs Melilla
 https://usher.ttvnw.net/api/channel/hls/2alissogq.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=6286490&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&rtqos=open_asia&sig=d9f30689aa57565c44fdedd03e75a52d1f88ab78&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%222alissogq%22%2C%22channel_id%22%3A269017434%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22qaa5kRMzJjYKkp2egV5D2Ln3pVLHlIvb%22%2C%22expires%22%3A1541012123%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3Anull%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22180.244.232.20%22%2C%22version%22%3A2%7D&cdm=wv
+#EXTINF:-1 group-title="SPORT", NBA TV
+http://iptv-area-51.tv/live/Charrua/20qEl7V6kj/3147.ts
 #EXTINF:-1 group-title="SPORT", BT SPORTS 1
 http://163.172.218.205:8081/BT/1/index.m3u8
 #EXTINF:-1 group-title="SPORT", BT SPORTS 2
@@ -47,6 +49,28 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 http://x.daengstream.com:8080/live/trialpremium/trialpremium/107.ts|User-Agent="exo_video_view"
 #EXTINF:-1 tvg-ID="" tvg-name="THE INDONESIAN CHANNEL" tvg-logo="" group-title="Dens", THE INDONESIAN CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="Dens", Discovery Channel
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="Dens", Cartoon Network
+http://50.7.161.82:8278/Cn/playlist.m3u8?tid=18820494&tsum=f92ef7abd3ea8961d0f45635a137124f|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="Dens", FOX HD
+http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=13573528&tsum=94775f380f8621d848e511cc70962439|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="" group-title="Dens", FX HD
+http://50.7.161.82:8278/Fxhd/playlist.m3u8?tid=13045128&tsum=33458e251331fae8a6564be669c62bd3|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People" tvg-logo="" group-title="Dens", Nat Geo People
+http://50.7.161.82:8278/Natgeopeople/playlist.m3u8?tid=11736898&tsum=07b613379e87b974764d8c0dfa3599e8|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="History HD" tvg-logo="" group-title="Dens", History HD
+http://50.7.161.82:8278/Historyhd/playlist.m3u8?tid=16338759&tsum=0a5cad28629fd759eef2a3418ad641aa|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="" group-title="Dens", HBO FAMILY
+http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=12193970&tsum=0df380ae06299e229ca67e5c0cde8057|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HITS" tvg-logo="" group-title="Dens", HBO HITS
+http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=10095704&tsum=f5ec3498da5c142c3687850b6172addc|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="Dens", CINEMAX
+http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=16073473&tsum=ae13673f3b95074aab96a9fb52358fbb|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION HD" tvg-logo="" group-title="Dens", FOX ACTION HD
+http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=11962973&tsum=26281323fe58d6911bd5d7dfe3ec3ed7|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIE PREMIUM" tvg-logo="" group-title="Dens", FOX MOVIE PREMIUM
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=11040045&tsum=dcb6c8ca37ecbbb29e804d4f5708e275|User-Agent="bajing.hopestv/1.0.2 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
 #EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Dens", NAT GEO WILD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Dens", NATIONAL GEOGRAPHIC
