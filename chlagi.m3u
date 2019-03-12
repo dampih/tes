@@ -19,6 +19,8 @@ http://163.172.218.205:8081/2Ten/2/index.m3u8
 http://163.172.218.205:8081/Ten/3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal",RCTI Bola
 http://id8.indostreamingtv.com/live/tv6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",RCTI Bola 2
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT21981201902190700244896830
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hu1qvp/tvri.png" group-title="Lokal",TVRI 2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gAxKo9/inews.png" group-title="Lokal",I News 2
