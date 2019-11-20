@@ -3,5 +3,29 @@
 http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?IASHttpSessionId=OTT219842019111921372222170951&ztecid=ch14041511532707866226&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511532707866226&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAxNTIvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET TV HD
 http://202.80.222.170/000001/2/ch00000090990000001723/1003.m3u8?IASHttpSessionId=OTT220062019112002131923065132&ztecid=ch00000090990000001723&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001723&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjMvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="Lokal",Trans TV HD
-http://202.80.222.174/000001/2/ch14041511552652254306/1003.m3u8?IASHttpSessionId=OTT2916201911200217322104504&ztecid=ch14041511552652254306&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511552652254306&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDkvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",ANTV
+http://210.210.155.35/session/9cd4865e-ffcd-11e9-86ab-c81f66f89318/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",RTV (Rajawali TV)
+http://210.210.155.35/session/b3c927d8-0b68-11ea-9f1a-8dbbae292108/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w897114221_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",GTV (Global TV) HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1125266059_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1261664993_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TVRI
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",SCTV
+http://210.210.155.35/session/986602b2-fead-11e9-b42d-c81f66f89318/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",iNews TV
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",Kompas TV
+http://rr2.dens.tv/s/s104/01.m3u8
