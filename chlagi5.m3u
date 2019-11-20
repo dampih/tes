@@ -1,0 +1,1419 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax HD"  group-title="--",Animax HD
+http://rr.dens.tv/h/h18/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus HD"  group-title="--",Aniplus HD
+http://rr.dens.tv/h/h02/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Biznet Kids"  group-title="--",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="DaVinci Kids"  group-title="--",DaVinci Kids
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney JR ID"  group-title="--",Disney JR ID
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MY Kids"  group-title="--",MY Kids
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV HD"  group-title="--",MetroTV HD
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV HD 2"  group-title="--",MetroTV HD 2
+http:////edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1344541363_b1300000_sleng.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV"  group-title="--",MetroTV
+http://rr2.dens.tv/s/s49/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="--",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 2"  group-title="--",ANTV 2
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="--",SCTV
+http://rr.dens.tv/h/h27/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 2"  group-title="--",SCTV 2
+http:////rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 3"  group-title="--",SCTV 3
+http://live3.indostreamingtv.com/live/tv22/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar"  group-title="--",Indosiar
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Daaitv"  group-title="--",Daaitv
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Elshinta Tv"  group-title="--",Elshinta Tv
+http://rr2.dens.tv/s/s10/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global Tv"  group-title="--",Global Tv
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar Gojek"  group-title="--",Indosiar Gojek
+http://new.indostreamingtv.com/live/tv3/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mnc Tv"  group-title="--",Mnc Tv
+http://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD"  group-title="--",NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="--",NET TV
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDX Channel"  group-title="--",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="--",RCTI
+http://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 2"  group-title="--",RCTI 2
+http://id2.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 3"  group-title="--",RCTI 3
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="--",RTV
+http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV 2"  group-title="--",RTV 2
+https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="--",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="--",Trans 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="--",Trans 7 2
+http:////live5.indostreamingtv.com/live/tv7/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 3"  group-title="--",Trans 7 3
+http://lihattv.com/?play=43744
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans tv"  group-title="--",Trans tv
+http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans Tv 2"  group-title="--",Trans Tv 2
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 3"  group-title="--",Trans TV 3
+http://lihattv.com/?play=43745
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="--",TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI 2"  group-title="--",TVRI 2
+http://lihattv.com/?play=43734
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI 3"  group-title="--",TVRI 3
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="In Tv"  group-title="--",In Tv
+http://rr2.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu"  group-title="--",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 2"  group-title="--",Berita Satu 2
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b396000.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia"  group-title="--",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inews TV"  group-title="--",Inews TV
+http://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV"  group-title="--",Kompas TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV 2"  group-title="--",Kompas TV 2
+https://stream-04.sg1.dailymotion.com/dm/3/x54ozbu/live-3.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TvOne"  group-title="--",TvOne
+http://rr2.dens.tv/s/s02/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TvOne 2"  group-title="--",TvOne 2
+https://dmlive.vo.llnwd.net/dm/3/x619221/live-3.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jak TV"  group-title="--",Jak TV
+https://cdn-livetv1.metube.id/hls/jaktv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movie HD"  group-title="--",Celestial Movie HD
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movie"  group-title="--",Celestial Movie
+http:////lihattv.com/?play=43414
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="--",Sony Pix
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Channel"  group-title="--",Sony Channel
+http://rr.dens.tv/h/h06/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX HD"  group-title="--",KIX HD
+http://rr.dens.tv/h/h07/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K+"  group-title="--",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="--",AXN HD
+http://rr.dens.tv/h/h09/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="--",Thrill
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Korea"  group-title="--",Korea
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV5 Monde"  group-title="--",TV5 Monde
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RT TV"  group-title="--",RT TV
+http://rr2.dens.tv/s/s23/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="--",National Geographic
+http://rr.dens.tv/h/h11/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NatGeo Wild"  group-title="--",NatGeo Wild
+http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony One"  group-title="--",Sony One
+http://rr.dens.tv/h/h13/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FoxLife"  group-title="--",FoxLife
+http://rr.dens.tv/h/h03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FoxHD"  group-title="--",FoxHD
+http://rr.dens.tv/h/h04/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Movie Premium HD"  group-title="--",Fox Movie Premium HD
+http://rr.dens.tv/h/h14/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Movie Premium HD 2"  group-title="--",Fox Movie Premium HD 2
+http://rr.dens.tv/h/h24/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Move Premium"  group-title="--",Fox Move Premium
+http://lihattv.com/?play=43350
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Action Movie HD"  group-title="--",Fox Action Movie HD
+http://rr.dens.tv/h/h15/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Action Movie"  group-title="--",Fox Action Movie
+http://lihattv.com/?play=43351
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Family Movies HD"  group-title="--",Fox Family Movies HD
+http://rr.dens.tv/h/h16/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Family Movies"  group-title="--",Fox Family Movies
+http://lihattv.com/?play=43352
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bioskop"  group-title="--",Zee Bioskop
+http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live"  group-title="--",Fox Live
+http://rr.dens.tv/h/h19/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 2"  group-title="--",Fox Live 2
+http://rr.dens.tv/h/h20/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 2 ver2"  group-title="--",Fox Live 2 ver2
+http://rr.dens.tv/h/h25/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 3"  group-title="--",Fox Live 3
+http://rr.dens.tv/h/h21/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 3 ver2"  group-title="--",Fox Live 3 ver2
+http://rr.dens.tv/h/h26/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="--",NHK World
+http://rr.dens.tv/h/h23/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SBSin HD"  group-title="--",SBSin HD
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Channel News Asia"  group-title="--",Channel News Asia
+http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid Tv"  group-title="--",Real Madrid Tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="--",TVRI Sport HD
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SONY ESPN HD"  group-title="--",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten HD1"  group-title="--",Sony Ten HD1
+http://cshms2.airtel.tv/wh7f454c46tw4176000574_1525252328/PLTV/88888888/224/3221225875/05.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony TEN HD2"  group-title="--",Sony TEN HD2
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony TEN HD3"  group-title="--",Sony TEN HD3
+http://mhms6.airtel.tv/wh7f454c46tw247835240_483665605/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Mekkah"  group-title="--",TV Mekkah
+http://rr2.dens.tv/s/s28/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Madinah"  group-title="--",TV Madinah
+http://rr2.dens.tv/s/s27/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NET TV HD"  group-title="--",(AC) NET TV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/78.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI"  group-title="--",(AC) TVRI
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/36.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI Sport HD"  group-title="--",(AC) TVRI Sport HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI Jakarta"  group-title="--",(AC) TVRI Jakarta
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/727.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trans TV"  group-title="--",(AC) Trans TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/34.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trans 7"  group-title="--",(AC) Trans 7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/35.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) SCTV"  group-title="--",(AC) SCTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/32.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NET TV"  group-title="--",(AC) NET TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/24.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Usee Sport Liga Gojek"  group-title="--",(AC) Usee Sport Liga Gojek
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/693.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Indosiar"  group-title="--",(AC) Indosiar
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/33.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) O Channel"  group-title="--",(AC) O Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/547.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ANTV"  group-title="--",(AC) ANTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/31.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MNC TV"  group-title="--",(AC) MNC TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/27.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Global TV"  group-title="--",(AC) Global TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/26.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) RCTI"  group-title="--",(AC) RCTI
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/25.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) The StartUp Channel"  group-title="--",(AC) The StartUp Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/726.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saluran Film Indonesia"  group-title="--",(AC) Saluran Film Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/554.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saluran Musik Indonesia"  group-title="--",(AC) Saluran Musik Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/72.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Klik Music"  group-title="--",(AC) Klik Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/73.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Life"  group-title="--",(AC) Life
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/140.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) U Channel"  group-title="--",(AC) U Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/151.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV Muhammadiyah"  group-title="--",(AC) TV Muhammadiyah
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/249.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CNN Indonesia"  group-title="--",(AC) CNN Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/44.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) iNews TV"  group-title="--",(AC) iNews TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/206.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Berita Satu"  group-title="--",(AC) Berita Satu
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/136.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DW TV Asia"  group-title="--",(AC) DW TV Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/205.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV ONE"  group-title="--",(AC) TV ONE
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/29.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Kompas TV"  group-title="--",(AC) Kompas TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/30.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Metro TV"  group-title="--",(AC) Metro TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/52.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bloomberg TV Asia"  group-title="--",(AC) Bloomberg TV Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/137.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Jak TV"  group-title="--",(AC) Jak TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/83.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Biznet Kids"  group-title="--",(AC) Biznet Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/563.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rajawali TV"  group-title="--",(AC) Rajawali TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/37.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Spacetoon"  group-title="--",(AC) Spacetoon
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/59.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) My Kids"  group-title="--",(AC) My Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/16.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Duck TV"  group-title="--",(AC) Duck TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/578.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney XD"  group-title="--",(AC) Disney XD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/104.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Toons"  group-title="--",(AC) Nick Toons
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/335.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nickelodeon"  group-title="--",(AC) Nickelodeon
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/252.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Jr"  group-title="--",(AC) Nick Jr
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/522.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) PBS Kids"  group-title="--",(AC) PBS Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/523.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney Channel ID"  group-title="--",(AC) Disney Channel ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/306.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cartoon Network ID"  group-title="--",(AC) Cartoon Network ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/680.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cartoon Network"  group-title="--",(AC) Cartoon Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/214.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Boomerang"  group-title="--",(AC) Boomerang
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/305.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CBBC"  group-title="--",(AC) CBBC
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/508.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Baby TV"  group-title="--",(AC) Baby TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/296.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bein Junior"  group-title="--",(AC) Bein Junior
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/342.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Jr 2"  group-title="--",(AC) Nick Jr 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/341.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Jim Jam"  group-title="--",(AC) Jim Jam
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney Junior"  group-title="--",(AC) Disney Junior
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/213.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Foodie"  group-title="--",(AC) Foodie
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/204.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV Edukasi"  group-title="--",(AC) TV Edukasi
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/494.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Antara TV"  group-title="--",(AC) Antara TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/91.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Elshinta TV"  group-title="--",(AC) Elshinta TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/23.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Makkah TV"  group-title="--",(AC) Makkah TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/297.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rodja TV"  group-title="--",(AC) Rodja TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/22.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Dangdutz"  group-title="--",(AC) Dangdutz
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/57.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Madina TV"  group-title="--",(AC) Madina TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/347.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Living Foodz"  group-title="--",(AC) Living Foodz
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/345.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DAAI TV"  group-title="--",(AC) DAAI TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/21.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HI! TV"  group-title="--",(AC) HI! TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/58.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bali TV"  group-title="--",(AC) Bali TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/576.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bandung TV"  group-title="--",(AC) Bandung TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/577.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Inspira TV"  group-title="--",(AC) Inspira TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/608.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KitaNesia"  group-title="--",(AC) KitaNesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/607.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Maleo TV"  group-title="--",(AC) Maleo TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/610.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nu Channel"  group-title="--",(AC) Nu Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/611.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saling Sapa"  group-title="--",(AC) Saling Sapa
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/606.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Tabalong TV"  group-title="--",(AC) Tabalong TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/609.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) IN TV"  group-title="--",(AC) IN TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/77.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) JTV"  group-title="--",(AC) JTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/135.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) J'GO TV"  group-title="--",(AC) J'GO TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/56.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Gold Diamond"  group-title="--",(AC) Gold Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/69.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Red Diamond"  group-title="--",(AC) Red Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/70.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Black Diamond"  group-title="--",(AC) Black Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/74.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Avava Diamond"  group-title="--",(AC) Avava Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/75.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond Earth"  group-title="--",(AC) Diamond Earth
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/581.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond Kids"  group-title="--",(AC) Diamond Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/580.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond TV"  group-title="--",(AC) Diamond TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/579.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ABC Avava Bollywood"  group-title="--",(AC) ABC Avava Bollywood
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/203.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Movies HD"  group-title="--",(AC) FOX Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/98.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Action Movies HD"  group-title="--",(AC) FOX Action Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/99.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Family Movies HD"  group-title="--",(AC) FOX Family Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/100.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Life HD"  group-title="--",(AC) FOX Life HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/94.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX HD"  group-title="--",(AC) FOX HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/95.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HBO HD"  group-title="--",(AC) HBO HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/210.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cinemax Action"  group-title="--",(AC) Cinemax Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/448.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Waku Waku Japan"  group-title="--",(AC) Waku Waku Japan
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/717.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Syfy"  group-title="--",(AC) Syfy
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/538.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HGTV"  group-title="--",(AC) HGTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/537.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic Channel HD"  group-title="--",(AC) National Geographic Channel HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/96.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic Wild HD"  group-title="--",(AC) National Geographic Wild HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/97.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic People"  group-title="--",(AC) National Geographic People
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/455.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) History ID"  group-title="--",(AC) History ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/718.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) History US"  group-title="--",(AC) History US
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/300.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animal Planet"  group-title="--",(AC) Animal Planet
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/358.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animal Planet HD World"  group-title="--",(AC) Animal Planet HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/514.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery HD"  group-title="--",(AC) Discovery HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/165.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Science HD"  group-title="--",(AC) Discovery Science HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/408.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Shed"  group-title="--",(AC) Discovery Shed
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/333.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Turbo"  group-title="--",(AC) Discovery Turbo
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/462.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery History"  group-title="--",(AC) Discovery History
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/511.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery HD World"  group-title="--",(AC) Discovery HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/513.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Crime Investigation"  group-title="--",(AC) Crime Investigation
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/332.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CGTN"  group-title="--",(AC) CGTN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/362.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) GINX ESPORTS TV"  group-title="--",(AC) GINX ESPORTS TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/532.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) E!"  group-title="--",(AC) E!
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/490.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) tvN ID"  group-title="--",(AC) tvN ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/493.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) France 24"  group-title="--",(AC) France 24
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/363.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV5monde"  group-title="--",(AC) TV5monde
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/545.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Phoenix"  group-title="--",(AC) Phoenix
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/546.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Euro News"  group-title="--",(AC) Euro News
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/543.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Channel News Asia"  group-title="--",(AC) Channel News Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/544.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) B4U Movie"  group-title="--",(AC) B4U Movie
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/617.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Food Network"  group-title="--",(AC) Food Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/625.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Travel XP"  group-title="--",(AC) Travel XP
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/618.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star Movies"  group-title="--",(AC) Star Movies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/359.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fashion TV"  group-title="--",(AC) Fashion TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/280.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony ONE"  group-title="--",(AC) Sony ONE
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/19.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aljazeera EN"  group-title="--",(AC) Aljazeera EN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/89.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aljazeera"  group-title="--",(AC) Aljazeera
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/88.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Sab"  group-title="--",(AC) Sony Sab
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/421.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Rox"  group-title="--",(AC) Sony Rox
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/418.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ATN News"  group-title="--",(AC) ATN News
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/535.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NDTV India"  group-title="--",(AC) NDTV India
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/533.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Universal Channel"  group-title="--",(AC) Universal Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/481.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Tennis Channel"  group-title="--",(AC) Tennis Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/482.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DMAX"  group-title="--",(AC) DMAX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/483.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) And TV"  group-title="--",(AC) And TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/420.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NHK World"  group-title="--",(AC) NHK World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/303.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) K Plus"  group-title="--",(AC) K Plus
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/18.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star World"  group-title="--",(AC) Star World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/381.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star Gold HD"  group-title="--",(AC) Star Gold HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/384.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Pix"  group-title="--",(AC) Sony Pix
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/380.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Leplex"  group-title="--",(AC) Sony Leplex
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/383.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony BBC Earth"  group-title="--",(AC) Sony BBC Earth
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/385.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Channel"  group-title="--",(AC) Sony Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/15.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Max HD"  group-title="--",(AC) Sony Max HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/180.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) SBS IN HD"  group-title="--",(AC) SBS IN HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/13.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KBS World"  group-title="--",(AC) KBS World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/133.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) K Drama"  group-title="--",(AC) K Drama
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/14.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Da Vinci"  group-title="--",(AC) Da Vinci
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/17.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) VH 1 Classic"  group-title="--",(AC) VH 1 Classic
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/396.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Entertainment Television"  group-title="--",(AC) Sony Entertainment Television
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/393.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rishtey Asia"  group-title="--",(AC) Rishtey Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/392.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Real Time"  group-title="--",(AC) Discovery Real Time
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/397.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Comedy Central"  group-title="--",(AC) Comedy Central
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/395.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Colors TV HD"  group-title="--",(AC) Colors TV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/391.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Zee Bioskop"  group-title="--",(AC) Zee Bioskop
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/7.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Zee Studio"  group-title="--",(AC) Zee Studio
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/338.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Thrill"  group-title="--",(AC) Thrill
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/4.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KIX"  group-title="--",(AC) KIX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/8.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Celestial Movies"  group-title="--",(AC) Celestial Movies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/5.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) AXN"  group-title="--",(AC) AXN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/9.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aniplus"  group-title="--",(AC) Aniplus
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/2.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animax"  group-title="--",(AC) Animax
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/3.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Golf Channel"  group-title="--",(AC) Golf Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/561.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) B4U Music"  group-title="--",(AC) B4U Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/524.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) And Pictures"  group-title="--",(AC) And Pictures
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/512.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV9"  group-title="--",(AC) TV9
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/444.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV3"  group-title="--",(AC) TV3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/443.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV2"  group-title="--",(AC) TV2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/442.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV1"  group-title="--",(AC) TV1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/441.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NTV7"  group-title="--",(AC) NTV7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/440.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC One"  group-title="--",(AC) BBC One
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/353.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Two"  group-title="--",(AC) BBC Two
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/354.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Three"  group-title="--",(AC) BBC Three
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/355.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Four"  group-title="--",(AC) BBC Four
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/356.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CBeebies"  group-title="--",(AC) CBeebies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/491.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Kids"  group-title="--",(AC) Discovery Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/507.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Sci Fi"  group-title="--",(AC) Sky Movies Sci Fi
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/274.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Family"  group-title="--",(AC) Sky Movies Family
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/273.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Disney"  group-title="--",(AC) Sky Movies Disney
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/272.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Crime"  group-title="--",(AC) Sky Movies Crime
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/271.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Action"  group-title="--",(AC) Sky Movies Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/269.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV"  group-title="--",(AC) MTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/281.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Rocks"  group-title="--",(AC) MTV Rocks
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/285.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Music"  group-title="--",(AC) MTV Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/286.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Hits"  group-title="--",(AC) MTV Hits
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/287.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Dance"  group-title="--",(AC) MTV Dance
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/288.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Classic"  group-title="--",(AC) MTV Classic
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/289.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Base"  group-title="--",(AC) MTV Base
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/291.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Naija"  group-title="--",(AC) Trace Naija
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/113.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Urban"  group-title="--",(AC) Trace Urban
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/106.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Prime"  group-title="--",(AC) Trace Prime
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/107.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Mizki"  group-title="--",(AC) Trace Mizki
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/109.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Africa"  group-title="--",(AC) Trace Africa
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/108.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Tropical"  group-title="--",(AC) Trace Tropical
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/112.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Toca"  group-title="--",(AC) Trace Toca
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/111.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TLC HD World"  group-title="--",(AC) TLC HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/352.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TLC English"  group-title="--",(AC) TLC English
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/351.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Astro Arena HD"  group-title="--",(AC) Astro Arena HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/567.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Astro Awani"  group-title="--",(AC) Astro Awani
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/294.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sport 1 ID"  group-title="--",(AC) BeIN Sport 1 ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/728.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sport 2 ID"  group-title="--",(AC) BeIN Sport 2 ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/729.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 1"  group-title="--",(AC) Fox Sports 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/51.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 2"  group-title="--",(AC) Fox Sports 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/102.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 3"  group-title="--",(AC) Fox Sports 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/101.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet HD"  group-title="--",(AC) Skynet HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/679.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 1"  group-title="--",(AC) Skynet Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/681.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 2"  group-title="--",(AC) Skynet Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/682.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 3"  group-title="--",(AC) Skynet Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/683.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 4"  group-title="--",(AC) Skynet Sport 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/684.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 5"  group-title="--",(AC) Skynet Sport 5
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/685.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 6"  group-title="--",(AC) Skynet Sport 6
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/686.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 1 HD Airtel"  group-title="--",(AC) Sony Ten 1 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/619.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 1 SD Airtel"  group-title="--",(AC) Sony Ten 1 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/620.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 2 HD Airtel"  group-title="--",(AC) Sony Ten 2 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/621.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 2 SD Airtel"  group-title="--",(AC) Sony Ten 2 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/622.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 3 HD Airtel"  group-title="--",(AC) Sony Ten 3 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/623.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 3 SD Airtel"  group-title="--",(AC) Sony Ten 3 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/624.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) True Sport HD"  group-title="--",(AC) True Sport HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/628.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) True Sport HD 2"  group-title="--",(AC) True Sport HD 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/629.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) PPTV HD"  group-title="--",(AC) PPTV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/605.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony ESPN"  group-title="--",(AC) Sony ESPN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/162.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 1 Fr"  group-title="--",(AC) BeIN Sports 1 Fr
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/569.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 1"  group-title="--",(AC) BeIN Sports 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/10.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 2"  group-title="--",(AC) BeIN Sports 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/11.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 3"  group-title="--",(AC) BeIN Sports 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/12.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 4"  group-title="--",(AC) BeIN Sports 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/217.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 5"  group-title="--",(AC) BeIN Sports 5
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/218.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 6"  group-title="--",(AC) BeIN Sports 6
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/219.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 7"  group-title="--",(AC) BeIN Sports 7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/220.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 8"  group-title="--",(AC) BeIN Sports 8
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/221.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 9"  group-title="--",(AC) BeIN Sports 9
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/222.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 10"  group-title="--",(AC) BeIN Sports 10
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/253.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 11"  group-title="--",(AC) BeIN Sports 11
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/254.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 12"  group-title="--",(AC) BeIN Sports 12
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/255.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport F1"  group-title="--",(AC) Sky Sport F1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/415.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN LaLiga"  group-title="--",(AC) BeIN LaLiga
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/416.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Premiere League"  group-title="--",(AC) Sky Sport Premiere League
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/317.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Main Event"  group-title="--",(AC) Sky Sport Main Event
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/316.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Action"  group-title="--",(AC) Sky Sport Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/315.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Cricket"  group-title="--",(AC) Sky Sport Cricket
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/314.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Football"  group-title="--",(AC) Sky Sport Football
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/477.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Arena"  group-title="--",(AC) Sky Sport Arena
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/476.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 1"  group-title="--",(AC) BT Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/319.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 2"  group-title="--",(AC) BT Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/320.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 3"  group-title="--",(AC) BT Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/321.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MU TV"  group-title="--",(AC) MU TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/400.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport ESPN"  group-title="--",(AC) BT Sport ESPN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/399.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CCTV 5 HD"  group-title="--",(AC) CCTV 5 HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/595.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FIGHT BOX"  group-title="--",(AC) FIGHT BOX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/501.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Box Nation"  group-title="--",(AC) Box Nation
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/499.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 1"  group-title="--",(AC) Super Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/256.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 2"  group-title="--",(AC) Super Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/257.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 3"  group-title="--",(AC) Super Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/258.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 4"  group-title="--",(AC) Super Sport 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/259.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) WWE Network"  group-title="--",(AC) WWE Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/299.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Real Madrid TV"  group-title="--",(AC) Real Madrid TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/244.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NBA TV"  group-title="--",(AC) NBA TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/243.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TNT US"  group-title="--",(AC) TNT US
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/678.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Ten Golf HD"  group-title="--",(AC) Ten Golf HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/224.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Six HD"  group-title="--",(AC) Sony Six HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/225.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Gen FM 103.1 Surabaya"  group-title="--",(AC) Gen FM 103.1 Surabaya
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/589.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Gen FM 98.7"  group-title="--",(AC) Gen FM 98.7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/588.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Jakarta"  group-title="--",(AC) Prambors FM Jakarta
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/572.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Bandung"  group-title="--",(AC) Prambors FM Bandung
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/582.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Makasar"  group-title="--",(AC) Prambors FM Makasar
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/585.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Semarang"  group-title="--",(AC) Prambors FM Semarang
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/587.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Solo"  group-title="--",(AC) Prambors FM Solo
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/586.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Surabaya"  group-title="--",(AC) Prambors FM Surabaya
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/584.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Prambors FM Yogyakarta"  group-title="--",(AC) Prambors FM Yogyakarta
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/583.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Pacific Rim: Uprising"  group-title="--",(AC) Pacific Rim: Uprising
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/590.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Interstellar (2014)"  group-title="--",(AC) Interstellar (2014)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/594.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Friday The 13th (HBO OD)"  group-title="--",(AC) Friday The 13th (HBO OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/658.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Robinson Crusoe (HBO OD)"  group-title="--",(AC) Robinson Crusoe (HBO OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/657.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Tarzan (Fox Movies OD)"  group-title="--",(AC) Tarzan (Fox Movies OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/659.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diary of A Wimpy Kid (Fox Movies OD)"  group-title="--",(AC) Diary of A Wimpy Kid (Fox Movies OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/660.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) AWOL-72 (Fox Action OD)"  group-title="--",(AC) AWOL-72 (Fox Action OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/664.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Commando (Fox Action OD)"  group-title="--",(AC) Commando (Fox Action OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/662.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Asian Connection (Fox Action OD)"  group-title="--",(AC) Asian Connection (Fox Action OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/663.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Shockwave (Fox Action OD)"  group-title="--",(AC) Shockwave (Fox Action OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/665.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) The Smurfs 2 (Fox Movies OD)"  group-title="--",(AC) The Smurfs 2 (Fox Movies OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/666.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Madagascar: Escape 2 Africa"  group-title="--",(AC) Madagascar: Escape 2 Africa
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/668.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Total Recall (Fox Movies OD)"  group-title="--",(AC) Total Recall (Fox Movies OD)
+http://ch.acaratv.net:8888/movie/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/667.mp4
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MY Kids"  group-title="ANAK",MY Kids
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney JR ID"  group-title="ANAK",Disney JR ID
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="DaVinci Kids"  group-title="ANAK",DaVinci Kids
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Biznet Kids"  group-title="ANAK",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1788356651_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Aniplus HD"  group-title="ANAK",Aniplus HD
+http://rr.dens.tv/h/h02/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animax HD"  group-title="ANAK",Animax HD
+http://rr.dens.tv/h/h18/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Biznet Kids"  group-title="ANAK",(AC) Biznet Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/563.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Duck TV"  group-title="ANAK",(AC) Duck TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/578.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) My Kids"  group-title="ANAK",(AC) My Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/16.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Spacetoon"  group-title="ANAK",(AC) Spacetoon
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/59.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney Junior"  group-title="ANAK",(AC) Disney Junior
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/213.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Jim Jam"  group-title="ANAK",(AC) Jim Jam
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/382.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Jr 2"  group-title="ANAK",(AC) Nick Jr 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/341.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bein Junior"  group-title="ANAK",(AC) Bein Junior
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/342.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Baby TV"  group-title="ANAK",(AC) Baby TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/296.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CBBC"  group-title="ANAK",(AC) CBBC
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/508.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Boomerang"  group-title="ANAK",(AC) Boomerang
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/305.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cartoon Network"  group-title="ANAK",(AC) Cartoon Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/214.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cartoon Network ID"  group-title="ANAK",(AC) Cartoon Network ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/680.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney Channel ID"  group-title="ANAK",(AC) Disney Channel ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/306.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) PBS Kids"  group-title="ANAK",(AC) PBS Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/523.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Jr"  group-title="ANAK",(AC) Nick Jr
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/522.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nickelodeon"  group-title="ANAK",(AC) Nickelodeon
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/252.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nick Toons"  group-title="ANAK",(AC) Nick Toons
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/335.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Disney XD"  group-title="ANAK",(AC) Disney XD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/104.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond Kids"  group-title="ANAK",(AC) Diamond Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/580.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) GINX ESPORTS TV"  group-title="ANAK",(AC) GINX ESPORTS TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/532.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animax"  group-title="ANAK",(AC) Animax
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/3.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aniplus"  group-title="ANAK",(AC) Aniplus
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/2.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Kids"  group-title="ANAK",(AC) Discovery Kids
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/507.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CBeebies"  group-title="ANAK",(AC) CBeebies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/491.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jak TV"  group-title="LOKAL",Jak TV
+https://cdn-livetv1.metube.id/hls/jaktv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TvOne 2"  group-title="LOKAL",TvOne 2
+https://dmlive.vo.llnwd.net/dm/3/x619221/live-3.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TvOne"  group-title="LOKAL",TvOne
+http://rr2.dens.tv/s/s02/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV 2"  group-title="LOKAL",Kompas TV 2
+https://stream-04.sg1.dailymotion.com/dm/3/x54ozbu/live-3.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kompas TV"  group-title="LOKAL",Kompas TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inews TV"  group-title="LOKAL",Inews TV
+http://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="CNN Indonesia"  group-title="LOKAL",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu 2"  group-title="LOKAL",Berita Satu 2
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b396000.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Berita Satu"  group-title="LOKAL",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="In Tv"  group-title="LOKAL",In Tv
+http://rr2.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI 3"  group-title="LOKAL",TVRI 3
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI 2"  group-title="LOKAL",TVRI 2
+http://lihattv.com/?play=43734
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI"  group-title="LOKAL",TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans TV 3"  group-title="LOKAL",Trans TV 3
+http://lihattv.com/?play=43745
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans Tv 2"  group-title="LOKAL",Trans Tv 2
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans tv"  group-title="LOKAL",Trans tv
+http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 3"  group-title="LOKAL",Trans 7 3
+http://lihattv.com/?play=43744
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7 2"  group-title="LOKAL",Trans 7 2
+http:////live5.indostreamingtv.com/live/tv7/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trans 7"  group-title="LOKAL",Trans 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="LOKAL",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV 2"  group-title="LOKAL",RTV 2
+https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="LOKAL",RTV
+http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 3"  group-title="LOKAL",RCTI 3
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI 2"  group-title="LOKAL",RCTI 2
+http://id2.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="LOKAL",RCTI
+http://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDX Channel"  group-title="LOKAL",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="LOKAL",NET TV
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NET TV HD"  group-title="LOKAL",NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mnc Tv"  group-title="LOKAL",Mnc Tv
+http://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar Gojek"  group-title="LOKAL",Indosiar Gojek
+http://new.indostreamingtv.com/live/tv3/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Global Tv"  group-title="LOKAL",Global Tv
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Elshinta Tv"  group-title="LOKAL",Elshinta Tv
+http://rr2.dens.tv/s/s10/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Daaitv"  group-title="LOKAL",Daaitv
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Indosiar"  group-title="LOKAL",Indosiar
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 3"  group-title="LOKAL",SCTV 3
+http://live3.indostreamingtv.com/live/tv22/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV 2"  group-title="LOKAL",SCTV 2
+http:////rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="LOKAL",SCTV
+http://rr.dens.tv/h/h27/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV 2"  group-title="LOKAL",ANTV 2
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANTV"  group-title="LOKAL",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV"  group-title="LOKAL",MetroTV
+http://rr2.dens.tv/s/s49/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV HD 2"  group-title="LOKAL",MetroTV HD 2
+http:////edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1344541363_b1300000_sleng.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="MetroTV HD"  group-title="LOKAL",MetroTV HD
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI"  group-title="LOKAL",(AC) TVRI
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/36.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NET TV HD"  group-title="LOKAL",(AC) NET TV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/78.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) RCTI"  group-title="LOKAL",(AC) RCTI
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/25.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Global TV"  group-title="LOKAL",(AC) Global TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/26.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MNC TV"  group-title="LOKAL",(AC) MNC TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/27.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ANTV"  group-title="LOKAL",(AC) ANTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/31.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) O Channel"  group-title="LOKAL",(AC) O Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/547.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Indosiar"  group-title="LOKAL",(AC) Indosiar
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/33.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Usee Sport Liga Gojek"  group-title="SPORTS",(AC) Usee Sport Liga Gojek
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/693.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NET TV"  group-title="LOKAL",(AC) NET TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/24.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) SCTV"  group-title="LOKAL",(AC) SCTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/32.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trans 7"  group-title="LOKAL",(AC) Trans 7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/35.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trans TV"  group-title="LOKAL",(AC) Trans TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/34.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI Jakarta"  group-title="LOKAL",(AC) TVRI Jakarta
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/727.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Berita Satu"  group-title="LOKAL",(AC) Berita Satu
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/136.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) iNews TV"  group-title="LOKAL",(AC) iNews TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/206.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CNN Indonesia"  group-title="LOKAL",(AC) CNN Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/44.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Jak TV"  group-title="LOKAL",(AC) Jak TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/83.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Metro TV"  group-title="LOKAL",(AC) Metro TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/52.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Kompas TV"  group-title="LOKAL",(AC) Kompas TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/30.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV ONE"  group-title="LOKAL",(AC) TV ONE
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/29.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rajawali TV"  group-title="LOKAL",(AC) Rajawali TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/37.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV Edukasi"  group-title="LOKAL",(AC) TV Edukasi
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/494.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DAAI TV"  group-title="LOKAL",(AC) DAAI TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/21.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Inspira TV"  group-title="LOKAL",(AC) Inspira TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/608.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) JTV"  group-title="LOKAL",(AC) JTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/135.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) IN TV"  group-title="LOKAL",(AC) IN TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/77.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Elshinta TV"  group-title="LOKAL",(AC) Elshinta TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/23.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movie HD"  group-title="FILM",Celestial Movie HD
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Celestial Movie"  group-title="FILM",Celestial Movie
+http:////lihattv.com/?play=43414
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="FILM",Sony Pix
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Channel"  group-title="FILM",Sony Channel
+http://rr.dens.tv/h/h06/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="KIX HD"  group-title="FILM",KIX HD
+http://rr.dens.tv/h/h07/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="FILM",AXN HD
+http://rr.dens.tv/h/h09/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="FILM",Thrill
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV5 Monde"  group-title="FILM",TV5 Monde
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bioskop"  group-title="FILM",Zee Bioskop
+http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Family Movies"  group-title="FILM",Fox Family Movies
+http://lihattv.com/?play=43352
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Family Movies HD"  group-title="FILM",Fox Family Movies HD
+http://rr.dens.tv/h/h16/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Action Movie"  group-title="FILM",Fox Action Movie
+http://lihattv.com/?play=43351
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Action Movie HD"  group-title="FILM",Fox Action Movie HD
+http://rr.dens.tv/h/h15/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Move Premium"  group-title="FILM",Fox Move Premium
+http://lihattv.com/?play=43350
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Movie Premium HD 2"  group-title="FILM",Fox Movie Premium HD 2
+http://rr.dens.tv/h/h24/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Movie Premium HD"  group-title="FILM",Fox Movie Premium HD
+http://rr.dens.tv/h/h14/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FoxHD"  group-title="FILM",FoxHD
+http://rr.dens.tv/h/h04/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="FoxLife"  group-title="FILM",FoxLife
+http://rr.dens.tv/h/h03/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony One"  group-title="FILM",Sony One
+http://rr.dens.tv/h/h13/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saluran Film Indonesia"  group-title="FILM",(AC) Saluran Film Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/554.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond Earth"  group-title="FILM",(AC) Diamond Earth
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/581.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Avava Diamond"  group-title="FILM",(AC) Avava Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/75.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Black Diamond"  group-title="FILM",(AC) Black Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/74.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Red Diamond"  group-title="FILM",(AC) Red Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/70.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Gold Diamond"  group-title="FILM",(AC) Gold Diamond
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/69.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) J'GO TV"  group-title="FILM",(AC) J'GO TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/56.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Syfy"  group-title="FILM",(AC) Syfy
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/538.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Waku Waku Japan"  group-title="FILM",(AC) Waku Waku Japan
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/717.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Cinemax Action"  group-title="FILM",(AC) Cinemax Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/448.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HBO HD"  group-title="FILM",(AC) HBO HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/210.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX HD"  group-title="FILM",(AC) FOX HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/95.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Life HD"  group-title="FILM",(AC) FOX Life HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/94.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Family Movies HD"  group-title="FILM",(AC) FOX Family Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/100.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Action Movies HD"  group-title="FILM",(AC) FOX Action Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/99.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FOX Movies HD"  group-title="FILM",(AC) FOX Movies HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/98.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ABC Avava Bollywood"  group-title="FILM",(AC) ABC Avava Bollywood
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/203.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Diamond TV"  group-title="FILM",(AC) Diamond TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/579.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV5monde"  group-title="FILM",(AC) TV5monde
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/545.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) tvN ID"  group-title="FILM",(AC) tvN ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/493.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) B4U Movie"  group-title="FILM",(AC) B4U Movie
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/617.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star Movies"  group-title="FILM",(AC) Star Movies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/359.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony ONE"  group-title="FILM",(AC) Sony ONE
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/19.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Universal Channel"  group-title="FILM",(AC) Universal Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/481.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Leplex"  group-title="FILM",(AC) Sony Leplex
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/383.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Pix"  group-title="FILM",(AC) Sony Pix
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/380.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Channel"  group-title="FILM",(AC) Sony Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/15.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Da Vinci"  group-title="FILM",(AC) Da Vinci
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/17.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) VH 1 Classic"  group-title="FILM",(AC) VH 1 Classic
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/396.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Comedy Central"  group-title="FILM",(AC) Comedy Central
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/395.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) AXN"  group-title="FILM",(AC) AXN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/9.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Celestial Movies"  group-title="FILM",(AC) Celestial Movies
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/5.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KIX"  group-title="FILM",(AC) KIX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/8.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Thrill"  group-title="FILM",(AC) Thrill
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/4.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Zee Studio"  group-title="FILM",(AC) Zee Studio
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/338.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Zee Bioskop"  group-title="FILM",(AC) Zee Bioskop
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/7.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Action"  group-title="FILM",(AC) Sky Movies Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/269.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Crime"  group-title="FILM",(AC) Sky Movies Crime
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/271.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Disney"  group-title="FILM",(AC) Sky Movies Disney
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/272.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Family"  group-title="FILM",(AC) Sky Movies Family
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/273.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Movies Sci Fi"  group-title="FILM",(AC) Sky Movies Sci Fi
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/274.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 3 ver2"  group-title="SPORTS",Fox Live 3 ver2
+http://rr.dens.tv/h/h26/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 3"  group-title="SPORTS",Fox Live 3
+http://rr.dens.tv/h/h21/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 2 ver2"  group-title="SPORTS",Fox Live 2 ver2
+http://rr.dens.tv/h/h25/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live 2"  group-title="SPORTS",Fox Live 2
+http://rr.dens.tv/h/h20/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fox Live"  group-title="SPORTS",Fox Live
+http://rr.dens.tv/h/h19/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony TEN HD3"  group-title="SPORTS",Sony TEN HD3
+http://mhms6.airtel.tv/wh7f454c46tw247835240_483665605/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony TEN HD2"  group-title="SPORTS",Sony TEN HD2
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sony Ten HD1"  group-title="SPORTS",Sony Ten HD1
+http://cshms2.airtel.tv/wh7f454c46tw4176000574_1525252328/PLTV/88888888/224/3221225875/05.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SONY ESPN HD"  group-title="SPORTS",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVRI Sport HD"  group-title="SPORTS",TVRI Sport HD
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Real Madrid Tv"  group-title="SPORTS",Real Madrid Tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Usee Sport Liga Gojek"  group-title="SPORTS",(AC) Usee Sport Liga Gojek
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/693.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Tennis Channel"  group-title="SPORTS",(AC) Tennis Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/482.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Golf Channel"  group-title="SPORTS",(AC) Golf Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/561.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Six HD"  group-title="SPORTS",(AC) Sony Six HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/225.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Ten Golf HD"  group-title="SPORTS",(AC) Ten Golf HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/224.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TNT US"  group-title="SPORTS",(AC) TNT US
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/678.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NBA TV"  group-title="SPORTS",(AC) NBA TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/243.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Real Madrid TV"  group-title="SPORTS",(AC) Real Madrid TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/244.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) WWE Network"  group-title="SPORTS",(AC) WWE Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/299.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 4"  group-title="SPORTS",(AC) Super Sport 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/259.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 3"  group-title="SPORTS",(AC) Super Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/258.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 2"  group-title="SPORTS",(AC) Super Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/257.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Super Sport 1"  group-title="SPORTS",(AC) Super Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/256.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Box Nation"  group-title="SPORTS",(AC) Box Nation
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/499.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) FIGHT BOX"  group-title="SPORTS",(AC) FIGHT BOX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/501.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CCTV 5 HD"  group-title="SPORTS",(AC) CCTV 5 HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/595.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport ESPN"  group-title="SPORTS",(AC) BT Sport ESPN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/399.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MU TV"  group-title="SPORTS",(AC) MU TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/400.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 3"  group-title="SPORTS",(AC) BT Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/321.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 2"  group-title="SPORTS",(AC) BT Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/320.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BT Sport 1"  group-title="SPORTS",(AC) BT Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/319.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Arena"  group-title="SPORTS",(AC) Sky Sport Arena
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/476.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Football"  group-title="SPORTS",(AC) Sky Sport Football
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/477.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Cricket"  group-title="SPORTS",(AC) Sky Sport Cricket
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/314.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Action"  group-title="SPORTS",(AC) Sky Sport Action
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/315.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Main Event"  group-title="SPORTS",(AC) Sky Sport Main Event
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/316.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport Premiere League"  group-title="SPORTS",(AC) Sky Sport Premiere League
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/317.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN LaLiga"  group-title="SPORTS",(AC) BeIN LaLiga
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/416.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sky Sport F1"  group-title="SPORTS",(AC) Sky Sport F1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/415.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 12"  group-title="SPORTS",(AC) BeIN Sports 12
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/255.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 11"  group-title="SPORTS",(AC) BeIN Sports 11
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/254.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 10"  group-title="SPORTS",(AC) BeIN Sports 10
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/253.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 9"  group-title="SPORTS",(AC) BeIN Sports 9
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/222.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 8"  group-title="SPORTS",(AC) BeIN Sports 8
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/221.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 7"  group-title="SPORTS",(AC) BeIN Sports 7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/220.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 6"  group-title="SPORTS",(AC) BeIN Sports 6
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/219.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 5"  group-title="SPORTS",(AC) BeIN Sports 5
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/218.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 4"  group-title="SPORTS",(AC) BeIN Sports 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/217.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 3"  group-title="SPORTS",(AC) BeIN Sports 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/12.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 2"  group-title="SPORTS",(AC) BeIN Sports 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/11.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 1"  group-title="SPORTS",(AC) BeIN Sports 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/10.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sports 1 Fr"  group-title="SPORTS",(AC) BeIN Sports 1 Fr
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/569.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony ESPN"  group-title="SPORTS",(AC) Sony ESPN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/162.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) PPTV HD"  group-title="SPORTS",(AC) PPTV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/605.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) True Sport HD 2"  group-title="SPORTS",(AC) True Sport HD 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/629.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) True Sport HD"  group-title="SPORTS",(AC) True Sport HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/628.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 3 SD Airtel"  group-title="SPORTS",(AC) Sony Ten 3 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/624.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 3 HD Airtel"  group-title="SPORTS",(AC) Sony Ten 3 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/623.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 2 SD Airtel"  group-title="SPORTS",(AC) Sony Ten 2 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/622.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 2 HD Airtel"  group-title="SPORTS",(AC) Sony Ten 2 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/621.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 1 SD Airtel"  group-title="SPORTS",(AC) Sony Ten 1 SD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/620.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Ten 1 HD Airtel"  group-title="SPORTS",(AC) Sony Ten 1 HD Airtel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/619.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 6"  group-title="SPORTS",(AC) Skynet Sport 6
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/686.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 5"  group-title="SPORTS",(AC) Skynet Sport 5
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/685.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 4"  group-title="SPORTS",(AC) Skynet Sport 4
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/684.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 3"  group-title="SPORTS",(AC) Skynet Sport 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/683.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 2"  group-title="SPORTS",(AC) Skynet Sport 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/682.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet Sport 1"  group-title="SPORTS",(AC) Skynet Sport 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/681.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Skynet HD"  group-title="SPORTS",(AC) Skynet HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/679.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 3"  group-title="SPORTS",(AC) Fox Sports 3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/101.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 2"  group-title="SPORTS",(AC) Fox Sports 2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/102.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fox Sports 1"  group-title="SPORTS",(AC) Fox Sports 1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/51.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sport 2 ID"  group-title="SPORTS",(AC) BeIN Sport 2 ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/729.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BeIN Sport 1 ID"  group-title="SPORTS",(AC) BeIN Sport 1 ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/728.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Astro Awani"  group-title="SPORTS",(AC) Astro Awani
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/294.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Astro Arena HD"  group-title="SPORTS",(AC) Astro Arena HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/567.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TVRI Sport HD"  group-title="SPORTS",(AC) TVRI Sport HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/565.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Korea"  group-title="KOREA",Korea
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="K+"  group-title="KOREA",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="SBSin HD"  group-title="KOREA",SBSin HD
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) K Plus"  group-title="KOREA",(AC) K Plus
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/18.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) K Drama"  group-title="KOREA",(AC) K Drama
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/14.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KBS World"  group-title="KOREA",(AC) KBS World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/133.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) SBS IN HD"  group-title="KOREA",(AC) SBS IN HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/13.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NatGeo Wild"  group-title="LAIN",NatGeo Wild
+http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="LAIN",National Geographic
+http://rr.dens.tv/h/h11/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="RT TV"  group-title="LAIN",RT TV
+http://rr2.dens.tv/s/s23/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="Channel News Asia"  group-title="LAIN",Channel News Asia
+http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="LAIN",NHK World
+http://rr.dens.tv/h/h23/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DW TV Asia"  group-title="LAIN",(AC) DW TV Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/205.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV Muhammadiyah"  group-title="LAIN",(AC) TV Muhammadiyah
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/249.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) U Channel"  group-title="LAIN",(AC) U Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/151.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Life"  group-title="LAIN",(AC) Life
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/140.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Klik Music"  group-title="LAIN",(AC) Klik Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/73.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saluran Musik Indonesia"  group-title="LAIN",(AC) Saluran Musik Indonesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/72.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) The StartUp Channel"  group-title="LAIN",(AC) The StartUp Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/726.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bloomberg TV Asia"  group-title="LAIN",(AC) Bloomberg TV Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/137.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rodja TV"  group-title="LAIN",(AC) Rodja TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/22.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Antara TV"  group-title="LAIN",(AC) Antara TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/91.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Foodie"  group-title="LAIN",(AC) Foodie
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/204.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bandung TV"  group-title="LAIN",(AC) Bandung TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/577.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Bali TV"  group-title="LAIN",(AC) Bali TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/576.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HI! TV"  group-title="LAIN",(AC) HI! TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/58.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Living Foodz"  group-title="LAIN",(AC) Living Foodz
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/345.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Dangdutz"  group-title="LAIN",(AC) Dangdutz
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/57.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Tabalong TV"  group-title="LAIN",(AC) Tabalong TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/609.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Saling Sapa"  group-title="LAIN",(AC) Saling Sapa
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/606.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Nu Channel"  group-title="LAIN",(AC) Nu Channel
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/611.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Maleo TV"  group-title="LAIN",(AC) Maleo TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/610.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) KitaNesia"  group-title="LAIN",(AC) KitaNesia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/607.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) CGTN"  group-title="LAIN",(AC) CGTN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/362.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Crime Investigation"  group-title="LAIN",(AC) Crime Investigation
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/332.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery HD World"  group-title="LAIN",(AC) Discovery HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/513.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery History"  group-title="LAIN",(AC) Discovery History
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/511.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Turbo"  group-title="LAIN",(AC) Discovery Turbo
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/462.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Shed"  group-title="LAIN",(AC) Discovery Shed
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/333.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Science HD"  group-title="LAIN",(AC) Discovery Science HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/408.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery HD"  group-title="LAIN",(AC) Discovery HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/165.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animal Planet HD World"  group-title="LAIN",(AC) Animal Planet HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/514.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Animal Planet"  group-title="LAIN",(AC) Animal Planet
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/358.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) History US"  group-title="LAIN",(AC) History US
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/300.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) History ID"  group-title="LAIN",(AC) History ID
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/718.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic People"  group-title="LAIN",(AC) National Geographic People
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/455.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic Wild HD"  group-title="LAIN",(AC) National Geographic Wild HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/97.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) National Geographic Channel HD"  group-title="LAIN",(AC) National Geographic Channel HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/96.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) HGTV"  group-title="LAIN",(AC) HGTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/537.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) E!"  group-title="LAIN",(AC) E!
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/490.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Food Network"  group-title="LAIN",(AC) Food Network
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/625.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Channel News Asia"  group-title="LAIN",(AC) Channel News Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/544.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Euro News"  group-title="LAIN",(AC) Euro News
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/543.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Phoenix"  group-title="LAIN",(AC) Phoenix
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/546.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Travel XP"  group-title="LAIN",(AC) Travel XP
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/618.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) France 24"  group-title="LAIN",(AC) France 24
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/363.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TLC English"  group-title="LAIN",(AC) TLC English
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/351.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TLC HD World"  group-title="LAIN",(AC) TLC HD World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/352.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Toca"  group-title="LAIN",(AC) Trace Toca
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/111.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Tropical"  group-title="LAIN",(AC) Trace Tropical
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/112.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Africa"  group-title="LAIN",(AC) Trace Africa
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/108.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Mizki"  group-title="LAIN",(AC) Trace Mizki
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/109.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Prime"  group-title="LAIN",(AC) Trace Prime
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/107.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Urban"  group-title="LAIN",(AC) Trace Urban
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/106.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Trace Naija"  group-title="LAIN",(AC) Trace Naija
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/113.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Base"  group-title="LAIN",(AC) MTV Base
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/291.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Classic"  group-title="LAIN",(AC) MTV Classic
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/289.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Dance"  group-title="LAIN",(AC) MTV Dance
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/288.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Hits"  group-title="LAIN",(AC) MTV Hits
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/287.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Music"  group-title="LAIN",(AC) MTV Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/286.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV Rocks"  group-title="LAIN",(AC) MTV Rocks
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/285.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) MTV"  group-title="LAIN",(AC) MTV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/281.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Four"  group-title="LAIN",(AC) BBC Four
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/356.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Three"  group-title="LAIN",(AC) BBC Three
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/355.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC Two"  group-title="LAIN",(AC) BBC Two
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/354.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) BBC One"  group-title="LAIN",(AC) BBC One
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/353.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NTV7"  group-title="LAIN",(AC) NTV7
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/440.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV1"  group-title="LAIN",(AC) TV1
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/441.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV2"  group-title="LAIN",(AC) TV2
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/442.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV3"  group-title="LAIN",(AC) TV3
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/443.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) TV9"  group-title="LAIN",(AC) TV9
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/444.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) And Pictures"  group-title="LAIN",(AC) And Pictures
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/512.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) B4U Music"  group-title="LAIN",(AC) B4U Music
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/524.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Colors TV HD"  group-title="LAIN",(AC) Colors TV HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/391.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Discovery Real Time"  group-title="LAIN",(AC) Discovery Real Time
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/397.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Rishtey Asia"  group-title="LAIN",(AC) Rishtey Asia
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/392.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Entertainment Television"  group-title="LAIN",(AC) Sony Entertainment Television
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/393.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony BBC Earth"  group-title="LAIN",(AC) Sony BBC Earth
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/385.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Max HD"  group-title="LAIN",(AC) Sony Max HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/180.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star Gold HD"  group-title="LAIN",(AC) Star Gold HD
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/384.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Star World"  group-title="LAIN",(AC) Star World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/381.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NHK World"  group-title="LAIN",(AC) NHK World
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/303.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) And TV"  group-title="LAIN",(AC) And TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/420.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) DMAX"  group-title="LAIN",(AC) DMAX
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/483.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) NDTV India"  group-title="LAIN",(AC) NDTV India
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/533.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) ATN News"  group-title="LAIN",(AC) ATN News
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/535.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Rox"  group-title="LAIN",(AC) Sony Rox
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/418.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Sony Sab"  group-title="LAIN",(AC) Sony Sab
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/421.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aljazeera"  group-title="LAIN",(AC) Aljazeera
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/88.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Aljazeera EN"  group-title="LAIN",(AC) Aljazeera EN
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/89.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Fashion TV"  group-title="LAIN",(AC) Fashion TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/280.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Madinah"  group-title="IBADAH",TV Madinah
+http://rr2.dens.tv/s/s27/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Mekkah"  group-title="IBADAH",TV Mekkah
+http://rr2.dens.tv/s/s28/index2.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Madina TV"  group-title="IBADAH",(AC) Madina TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/347.ts
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="(AC) Makkah TV"  group-title="IBADAH",(AC) Makkah TV
+http://ch.acaratv.net:8888/live/sabtuceriayukdownloadacaratv/sabtuceriayukdownloadacaratv/297.ts
