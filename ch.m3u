@@ -5,8 +5,6 @@ http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?IASHttpSessionId
 http://202.80.222.170/000001/2/ch00000090990000001723/1003.m3u8?IASHttpSessionId=OTT220062019112002131923065132&ztecid=ch00000090990000001723&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001723&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjMvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal",Indosiar 2
-https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0"|Host="cdn-livetv1.metube.id"|Origin="https://www.metube.id"|Referer="https://www.metube.id/live/INDOSIAR"
 #EXTINF:-1 tvg-logo="" group-title="Lokal",ANTV
 http://210.210.155.35/session/9cd4865e-ffcd-11e9-86ab-c81f66f89318/qwr9ew/s/s102/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lokal",RTV (Rajawali TV)
