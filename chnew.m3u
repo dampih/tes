@@ -108,7 +108,7 @@ http://210.210.155.35/session/497e962a-7ab6-11ea-9585-c81f66f89318/uq2663/h/h41/
 https://etslive-2-vidio-com.akamaized.net/exp=1586488084~acl=/hls-p/ingest_6165_*/*~hmac=d8e88dd900b231cc41ca7b44616c139b82af6f1fe9e5612310616e26da8b7521/hls-p/ingest_6165_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",TVRI Sport HD
-http://210.210.155.35/session/6b7d2732-7ab6-11ea-bdb6-c81f66f89318/qwr9ew/s/s107/02.m3u8
+http://210.210.155.35/session/6b7d2732-7ab6-11ea-bdb6-c81f66f89318/qwr9ew/s/s107/01.m3u8
 
 #EXTINF:-1 group-title="Lokal",OChannel HD
 https://etslive-2-vidio-com.akamaized.net/exp=1586487969~acl=/hls-p/ingest_206_*/*~hmac=3580b233e43914893afc734725969c2c8550e49b68571938646e68ee116b5a2e/hls-p/ingest_206_720p/index.m3u8
@@ -123,7 +123,7 @@ http://210.210.155.35/session/47e84a52-7aae-11ea-bc3a-b82a72d63267/dr9445/h/h144
 https://cdnmdc2.useetv.com/joss/14/animax/chunklist_w1369053694_b684100_sleng.m3u8?enc=xQI4gnc_ewN4atchMKCi1w&exp=1586484979
 
 #EXTINF:-1 group-title="KIDS",Aniplus
-http://210.210.155.35/session/02b6d3a8-7aaf-11ea-af67-b82a72d63267/dr9445/h/h02/02.m3u8
+http://210.210.155.35/session/02b6d3a8-7aaf-11ea-af67-b82a72d63267/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 group-title="KIDS",Dens Play
 http://210.210.155.35/session/84687f58-7ab6-11ea-bdb6-c81f66f89318/x6bnqe/s/s101/live.m3u8?app_type=web&userid=wmdod9d2ii&tkn=803RBNGEK9PD79RVVF3T586JVCDXB9ZT&chname=DensPlay
@@ -159,10 +159,10 @@ https://cdnkbl2.useetv.com/joss/14/alquran/chunklist_w204236470_b684100_sleng.m3
 http://210.210.155.35/session/9c58477c-7aae-11ea-929d-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Fight Sport
-http://210.210.155.35/session/b69eeac8-7aae-11ea-929d-c81f66f89318/uq2663/h/h05/02.m3u8
+http://210.210.155.35/session/b69eeac8-7aae-11ea-929d-c81f66f89318/uq2663/h/h05/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Axn
-http://210.210.155.35/session/167c3450-7aaf-11ea-929d-c81f66f89318/uq2663/h/h141/02.m3u8
+http://210.210.155.35/session/167c3450-7aaf-11ea-929d-c81f66f89318/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",kix
 http://210.210.155.35/session/466d89e8-7aaf-11ea-929d-c81f66f89318/uq2663/h/h07/01.m3u8
@@ -180,25 +180,25 @@ https://edgejt6.useetv.com/joss/14/nhkworld/chunklist_w822823163_b684100_sleng.m
 https://cdnbdsa1.useetv.com/joss/15/afc/chunklist_w974902726_b1344100_sleng.m3u8?enc=X6EFhO_SB8uwUnNBgA_IaQ&exp=1586485443|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
 
 #EXTINF:-1 group-title="Hiburan",hits
-http://210.210.155.35/session/61f7b5da-7aaf-11ea-929d-c81f66f89318/uq2663/h/h37/02.m3u8
+http://210.210.155.35/session/61f7b5da-7aaf-11ea-929d-c81f66f89318/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Blue Ant Ent
 http://210.210.155.35/session/80b9bde2-7aaf-11ea-b29b-b82a72d63267/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Blue Ant Ext
-http://210.210.155.35/session/98f941de-7aaf-11ea-b29b-b82a72d63267/dr9445/h/h15/02.m3u8
+http://210.210.155.35/session/98f941de-7aaf-11ea-b29b-b82a72d63267/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",k+
-http://210.210.155.35/session/b8879974-7aaf-11ea-bdb6-c81f66f89318/uq2663/h/h08/02.m3u8
+http://210.210.155.35/session/b8879974-7aaf-11ea-bdb6-c81f66f89318/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",One
 http://210.210.155.35/session/d3e2b79e-7aaf-11ea-bdb6-c81f66f89318/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",GEM
-http://210.210.155.35/session/f33fc73a-7aaf-11ea-aaa4-c81f66f89318/uq2663/h/h19/02.m3u8
+http://210.210.155.35/session/f33fc73a-7aaf-11ea-aaa4-c81f66f89318/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",CinemaWorld
-http://210.210.155.35/session/18f49f5a-7ab0-11ea-bdb6-c81f66f89318/uq2663/h/h04/02.m3u8
+http://210.210.155.35/session/18f49f5a-7ab0-11ea-bdb6-c81f66f89318/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Celestial_Movies
 http://210.210.155.35/session/6f38a5dc-7ab0-11ea-8bfd-c81f66f89318/qwr9ew/s/s33/index10.m3u8?app_type=web&userid=wmdod9d2ii&tkn=803RBNGEK9PD79RVVF3T586JVCDXB9ZT&chname=Celestial_Movies
@@ -213,10 +213,10 @@ http://210.210.155.35/session/ad0c4a30-7ab0-11ea-8bfd-c81f66f89318/qwr9ew/s/s34/
 http://210.210.155.35/session/dfca5e52-7ab1-11ea-82db-c81f66f89318/uq2663/h/h90/S1/mnf.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Style
-http://210.210.155.35/session/27231d8e-7ab2-11ea-9585-c81f66f89318/uq2663/h/h01/02.m3u8
+http://210.210.155.35/session/27231d8e-7ab2-11ea-9585-c81f66f89318/uq2663/h/h01/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",Bloomberg TV
-http://210.210.155.35/session/4a604ca4-7ab2-11ea-9585-c81f66f89318/uq2663/h/h03/02.m3u8
+http://210.210.155.35/session/4a604ca4-7ab2-11ea-9585-c81f66f89318/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1 group-title="Hiburan",LifeStyle
 http://210.210.155.35/session/9b3caaa8-7ab4-11ea-9e1a-c81f66f89318/qwr9ew/s/s07/01.m3u8
