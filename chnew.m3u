@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Lokal",RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6.m3u8
+https://raw.githubusercontent.com/dampih/tes/master/RCTI_Logo.m3u8
 
 #EXTINF:-1 group-title="Lokal",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488024~acl=/hls-p/ingest_665_*/*~hmac=ea2482ade384578ed891a808e99d94327285896e4dbbf876186446f13e9ffa33/hls-p/ingest_665_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1618058849~acl=/hls-p/ingest_665_*/*~hmac=ea2482ade384578ed891a808e99d94327285896e4dbbf876186446f13e9ffa33/hls-p/ingest_665_720p/index.m3u8
+
+#EXTINF:-1 group-title="Lokal",MNCTV
+https://raw.githubusercontent.com/dampih/tes/master/MNCTV_Logo.m3u8
 
 #EXTINF:-1 group-title="Lokal",Metro TV
 http://210.210.155.35/session/7611618a-7ab2-11ea-9585-c81f66f89318/uq2663/h/h12/01.m3u8
@@ -33,13 +36,13 @@ http://210.210.155.35/session/f36ac0f8-7ab3-11ea-9e1a-c81f66f89318/qwr9ew/s/s04/
 https://etslive-2-vidio-com.akamaized.net/exp=1586487160~acl=/hls-p/ingest_205_*/*~hmac=04c3f65bec10ef8a52b0aa1137caf56f36f472d7c5c40495f79ad4ea50f6c628/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",GTV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8
+https://raw.githubusercontent.com/dampih/tes/master/GTV_Logo.m3u8
 
 #EXTINF:-1 group-title="Lokal",GTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1586488160~acl=/hls-p/ingest_778_*/*~hmac=42bc111f73765c95b1ce224f5ff5931c0451f8a31e061d7adbe435c869ecc085/hls-p/ingest_778_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",INews
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8
+https://raw.githubusercontent.com/dampih/tes/master/iNews_Logo.m3u8
 
 #EXTINF:-1 group-title="Lokal",INews HD
 https://etslive-2-vidio-com.akamaized.net/exp=1586488175~acl=/hls-p/ingest_5409_*/*~hmac=fc36faf2ff612d017835d284b8b868443ab52370f791bcd828b696e669310d9a/hls-p/ingest_5409_720p/index.m3u8
