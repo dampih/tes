@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="Radio",RasFM
+http://103.28.148.18:9006/;
+
 #EXTINF:-1 group-title="Lokal",RCTI
 https://raw.githubusercontent.com/dampih/tes/master/RCTI_Logo.m3u8
 
