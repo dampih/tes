@@ -5,65 +5,35 @@ http://103.28.148.18:9006/;
 #EXTINF:-1 group-title="Lokal",RCTI
 https://raw.githubusercontent.com/dampih/tes/master/RCTI_Logo.m3u8
 
-#EXTINF:-1 group-title="Lokal",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1618058849~acl=/hls-p/ingest_665_*/*~hmac=ea2482ade384578ed891a808e99d94327285896e4dbbf876186446f13e9ffa33/hls-p/ingest_665_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",MNCTV
 https://raw.githubusercontent.com/dampih/tes/master/MNCTV_Logo.m3u8
 
 #EXTINF:-1 group-title="Lokal",Metro TV
 http://210.210.155.35/session/7611618a-7ab2-11ea-9585-c81f66f89318/uq2663/h/h12/01.m3u8
 
-#EXTINF:-1 group-title="Lokal",Metro TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487918~acl=/hls-p/ingest_777_*/*~hmac=b2da9ea571c290f1bfe1cb8066e7b6170e3e158a73b4426eb7295fdc228d3a8d/hls-p/ingest_777_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",TV One
 http://210.210.155.35/session/8c026156-7ab2-11ea-8724-c81f66f89318/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",TV One 2
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybA-SytHdl7ssOngP7bw80Lk)/dm/3/x619221/s/live-3.m3u8
-
-#EXTINF:-1 group-title="Lokal",TV One 3
-https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/tvone2_all/skrz1j8exe/tvone2_576p/chunks.m3u8?nimblesessionid=183971679&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIwIDEyOjEzOjE0IEFNJmhhc2hfdmFsdWU9TnZMUHRSRzdtVU9FRkwvR1ZYOWNTdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgwMTI4Mjd8MzYuNzcuMjA5LjUx|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
 
 #EXTINF:-1 group-title="Lokal",Sctv
 http://210.210.155.35/session/b9429c44-7ab2-11ea-8724-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="Lokal",Sctv HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487448~acl=/hls-p/ingest_204_*/*~hmac=bfd2661357715a00ae15d0c765041220f9c6c96f8a2daf580e71d54e1073a029/hls-p/ingest_204_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",Indosiar
 http://210.210.155.35/session/f36ac0f8-7ab3-11ea-9e1a-c81f66f89318/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",Indosiar HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487160~acl=/hls-p/ingest_205_*/*~hmac=04c3f65bec10ef8a52b0aa1137caf56f36f472d7c5c40495f79ad4ea50f6c628/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",GTV
 https://raw.githubusercontent.com/dampih/tes/master/GTV_Logo.m3u8
 
-#EXTINF:-1 group-title="Lokal",GTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488160~acl=/hls-p/ingest_778_*/*~hmac=42bc111f73765c95b1ce224f5ff5931c0451f8a31e061d7adbe435c869ecc085/hls-p/ingest_778_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",INews
 https://raw.githubusercontent.com/dampih/tes/master/iNews_Logo.m3u8
 
-#EXTINF:-1 group-title="Lokal",INews HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488175~acl=/hls-p/ingest_5409_*/*~hmac=fc36faf2ff612d017835d284b8b868443ab52370f791bcd828b696e669310d9a/hls-p/ingest_5409_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",Trans TV
 http://210.210.155.35/session/ad0e7492-7ab3-11ea-9e1a-c81f66f89318/x6bnqe/s/s252/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",Trans TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487871~acl=/hls-p/ingest_733_*/*~hmac=0b524f8a97fc6dcd33dd79f3a322321f1cfd8362fb94fb7d77c704d4b616d634/hls-p/ingest_733_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",Trans TV HD 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1447325130_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Lokal",Trans 7
 http://210.210.155.35/session/135dbd70-7ab4-11ea-9e1a-c81f66f89318/qwr9ew/s/s101/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",Trans 7 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488042~acl=/hls-p/ingest_734_*/*~hmac=e4a64344ac2bfa52aa5f5a7a041094a18c173561c896624a1b71f78441704650/hls-p/ingest_734_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",Trans 7 HD 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2064263721_b384000_sleng.m3u8
@@ -80,14 +50,8 @@ http://210.210.155.35/session/9b3caaa8-7ab4-11ea-9e1a-c81f66f89318/qwr9ew/s/s07/
 #EXTINF:-1 group-title="Lokal",NET
 http://210.210.155.35/session/0d4f4038-7ab5-11ea-9e1a-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 group-title="Lokal",NET HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488310~acl=/hls-p/ingest_875_*/*~hmac=bf52c3e7bde2dd72627e3c298aff959d92438d2e6bf3caf258d6ceeb7195d7a7/hls-p/ingest_875_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",KompasTV
 http://210.210.155.35/session/2eb82320-7ab5-11ea-a16a-c81f66f89318/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",KompasTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487988~acl=/hls-p/ingest_874_*/*~hmac=32e67c8499ed5b45357780b43d5f5b574930772480122addb036f8e582c506e1/hls-p/ingest_874_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",Elshinta Tv
 http://210.210.155.35/session/ad5a0c20-7ab5-11ea-833a-c81f66f89318/qwr9ew/s/s10/01.m3u8
@@ -95,47 +59,23 @@ http://210.210.155.35/session/ad5a0c20-7ab5-11ea-833a-c81f66f89318/qwr9ew/s/s10/
 #EXTINF:-1 group-title="Lokal",TVRI
 http://210.210.155.35/session/d528af9a-7ab5-11ea-833a-c81f66f89318/qwr9ew/s/s11/01.m3u8
 
-#EXTINF:-1 group-title="Lokal",TVRI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488377~acl=/hls-p/ingest_6441_*/*~hmac=0d7f7fc5762d2641ecc1e40f41163385a00f19b3e8ade600f8e5d669fc010002/hls-p/ingest_6441_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",RTV
 http://210.210.155.35/session/e1d378ec-7ab5-11ea-833a-c81f66f89318/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 group-title="Lokal",RTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488421~acl=/hls-p/ingest_geo_1561_*/*~hmac=de2a5c520512c6f1e4f49b0c24f42f7e185d1eda2a1ac57d4ef301c4d35f3aca/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 group-title="Lokal",Berita Satu
 http://210.210.155.35/session/497e962a-7ab6-11ea-9585-c81f66f89318/uq2663/h/h41/S1/mnf.m3u8
 
-#EXTINF:-1 group-title="Lokal",Berita Satu HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488084~acl=/hls-p/ingest_6165_*/*~hmac=d8e88dd900b231cc41ca7b44616c139b82af6f1fe9e5612310616e26da8b7521/hls-p/ingest_6165_720p/index.m3u8
-
 #EXTINF:-1 group-title="Lokal",TVRI Sport HD
 http://210.210.155.35/session/6b7d2732-7ab6-11ea-bdb6-c81f66f89318/qwr9ew/s/s107/01.m3u8
 
-#EXTINF:-1 group-title="Lokal",OChannel HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586487969~acl=/hls-p/ingest_206_*/*~hmac=3580b233e43914893afc734725969c2c8550e49b68571938646e68ee116b5a2e/hls-p/ingest_206_720p/index.m3u8
-
-#EXTINF:-1 group-title="Lokal",Jaktv HD
-https://etslive-2-vidio-com.akamaized.net/exp=1586488316~acl=/hls-p/ingest_5415_*/*~hmac=7261d9f9855122c238d1d238dac9c338fbfca4e788f7bc776734848a4c8e4345/hls-p/ingest_5415_720p/index.m3u8
-
 #EXTINF:-1 group-title="KIDS",animax
 http://210.210.155.35/session/47e84a52-7aae-11ea-bc3a-b82a72d63267/dr9445/h/h144/01.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="KIDS",animax 2
-https://cdnmdc2.useetv.com/joss/14/animax/chunklist_w1369053694_b684100_sleng.m3u8?enc=xQI4gnc_ewN4atchMKCi1w&exp=1586484979
 
 #EXTINF:-1 group-title="KIDS",Aniplus
 http://210.210.155.35/session/02b6d3a8-7aaf-11ea-af67-b82a72d63267/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 group-title="KIDS",Dens Play
 http://210.210.155.35/session/84687f58-7ab6-11ea-bdb6-c81f66f89318/x6bnqe/s/s101/live.m3u8?app_type=web&userid=wmdod9d2ii&tkn=803RBNGEK9PD79RVVF3T586JVCDXB9ZT&chname=DensPlay
-
-#EXTINF:-1 group-title="KIDS",Cartoon Network
-https://cdnbal1.useetv.com/joss/14/cartoonnetwork/chunklist_w509871971_b684100_sleng.m3u8?enc=drCqKtd-d74caHEtH43oOg&exp=1586483481|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="KIDS",Duck Tv
-https://cdnkbl1.useetv.com/joss/14/ducktv/chunklist_w1934542906_b684100_sleng.m3u8?enc=vbf3nJxJlAdpdAIYTy7rNg&exp=1586484639|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
 
 #EXTINF:-1 group-title="KIDS",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -146,17 +86,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w12881767
 #EXTINF:-1 group-title="KIDS",Disney Junior Asia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 group-title="KIDS",MyTV
-https://cdnbdsa1.useetv.com/joss/14/mytv/chunklist_w1400052733_b684100_sleng.m3u8?enc=hd_E8YH4ONnsjqQsJh6kmg&exp=1586484688|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="KIDS",Horee
-https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w987523494_b684100_sleng.m3u8?enc=7dj3ZlXgSUsM7TOjKSmnLA&exp=1586484753|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
 #EXTINF:-1 group-title="KIDS",My_Kidz_HD
 http://210.210.155.35/session/dbde3f64-7aae-11ea-929d-c81f66f89318/uq2663/h/h98/index.m3u8?app_type=web&userid=wmdod9d2ii&tkn=803RBNGEK9PD79RVVF3T586JVCDXB9ZT&chname=My_Kidz_HD
-
-#EXTINF:-1 group-title="Ibadah",AlQuran (Mekkah)
-https://cdnkbl2.useetv.com/joss/14/alquran/chunklist_w204236470_b684100_sleng.m3u8?enc=fUiK_hKCSuVlpnjvd436lA&exp=1586484916|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
 
 #EXTINF:-1 group-title="Hiburan",eGG
 http://210.210.155.35/session/9c58477c-7aae-11ea-929d-c81f66f89318/uq2663/h/h22/01.m3u8
@@ -169,18 +100,6 @@ http://210.210.155.35/session/167c3450-7aaf-11ea-929d-c81f66f89318/uq2663/h/h141
 
 #EXTINF:-1 group-title="Hiburan",kix
 http://210.210.155.35/session/466d89e8-7aaf-11ea-929d-c81f66f89318/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 group-title="Hiburan",kix 2
-https://edgejt6.useetv.com/joss/15/kix/chunklist_w876171389_b1344100_sleng.m3u8?enc=Tb7-HxFTAOcI5v0717eHDQ&exp=1586485045|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="Hiburan",WarnerBros Tv
-https://cdnbal1.useetv.com/joss/15/warner/chunklist_w1311491893_b1344100_sleng.m3u8?enc=aTLJvyUFUG36j6VpazH2ag&exp=1586485093|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="Hiburan",NHK World Japan
-https://edgejt6.useetv.com/joss/14/nhkworld/chunklist_w822823163_b684100_sleng.m3u8?enc=5kzB1FZ_iGZbrfFPWQvMdA&exp=1586485254|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
-
-#EXTINF:-1 group-title="Hiburan",afn
-https://cdnbdsa1.useetv.com/joss/15/afc/chunklist_w974902726_b1344100_sleng.m3u8?enc=X6EFhO_SB8uwUnNBgA_IaQ&exp=1586485443|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0)"
 
 #EXTINF:-1 group-title="Hiburan",hits
 http://210.210.155.35/session/61f7b5da-7aaf-11ea-929d-c81f66f89318/uq2663/h/h37/01.m3u8
