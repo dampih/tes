@@ -3,7 +3,7 @@
 http://103.28.148.18:9006/;
 
 #EXTINF:-1 group-title="Lokal",RCTI
-https://raw.githubusercontent.com/dampih/tes/master/RCTI_Logo.m3u8
+https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?hdnts=exp=1598669241~hmac=6d1a46988a28892d41ec6578188e7fd63c089f43833b9963a8b5ca1b1872eea8
 
 #EXTINF:-1 group-title="Lokal",MNCTV
 https://raw.githubusercontent.com/dampih/tes/master/MNCTV_Logo.m3u8
